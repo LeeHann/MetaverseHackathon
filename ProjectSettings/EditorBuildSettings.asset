@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01_Scenes/HannaTest.unity
+    guid: 343d1d8bcf87c4037b97f6ec084eebaa
+  - enabled: 1
+    path: Assets/01_Scenes/Loading.unity
+    guid: 119d4e4735ca1904b83be51411976d20
+  - enabled: 1
+    path: Assets/01_Scenes/UIPrintTest.unity
+    guid: 5a1e4d0e5ed24674b840a800ed0b4200
   m_configObjects: {}

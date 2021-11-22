@@ -10,12 +10,10 @@ public class Loading : MonoBehaviour
     public Text loadingStatus;
 
 	public static string loadScene;
-	public static int loadType;
 
-	public static void LoadSceneHandle(string _name, int _loadType)
+	public static void LoadSceneHandle(string _name)
 	{
 		loadScene = _name;
-		loadType = _loadType;
 		LoadScene();
 	}
 
@@ -43,7 +41,7 @@ public class Loading : MonoBehaviour
 			if (asyncOperation.progress >= 0.9f)
 			{
 				loadingBar.fillAmount = Mathf.Lerp(loadingBar.fillAmount, 1, timeC);
-                loadingStatus.text = (asyncOperation.progress * 10f).ToString(); 
+                loadingStatus.text = (asyncOperation.progress * 100f).ToString() + "%"; 
 				if (loadingBar.fillAmount == 1.0f)
 				{
 					asyncOperation.allowSceneActivation = true;
@@ -52,7 +50,7 @@ public class Loading : MonoBehaviour
 			else
 			{
 				loadingBar.fillAmount = Mathf.Lerp(loadingBar.fillAmount, asyncOperation.progress, timeC);
-                loadingStatus.text = (asyncOperation.progress * 10f).ToString();
+                loadingStatus.text = (asyncOperation.progress * 100f).ToString() + "%";
 				if (loadingBar.fillAmount >= asyncOperation.progress)
 				{
 					timeC = 0f;

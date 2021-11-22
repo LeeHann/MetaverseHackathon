@@ -11,6 +11,9 @@ public class Sign : MonoBehaviour
     public InputField InputID;
     public InputField InputPW;
 
+    public bool SceneMode;
+    public string SceneName;
+
     void Start()
     {
         var bro = Backend.Initialize(true);
@@ -40,6 +43,8 @@ public class Sign : MonoBehaviour
         {
             Debug.Log("로그인에 성공했습니다");
         }
+
+        if (SceneMode == true) Loading.LoadSceneHandle(SceneName);
     }
 
     public void OnClickSignUp()
@@ -47,7 +52,7 @@ public class Sign : MonoBehaviour
         ID = InputID.text;
         PW = InputPW.text;
         Debug.Log("ID : " + ID + " PW : " + PW);
-        
+
         if (ID.Length <= 0 || PW.Length <= 0) return;
 
         BackendReturnObject bro = Backend.BMember.CustomSignUp ( ID, PW );
@@ -55,5 +60,7 @@ public class Sign : MonoBehaviour
         {
             Debug.Log("회원가입에 성공했습니다");
         }
+
+        if (SceneMode == true) Loading.LoadSceneHandle(SceneName);
     }
 }
