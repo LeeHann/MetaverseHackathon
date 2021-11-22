@@ -8,10 +8,12 @@ using System;
 public class XMLParser: MonoBehaviour
 {
     // xml 파싱 -> 딕셔너리로 정리 -> 딕셔너리 foreach로 돌면서 디비 쿼리 insert
-    string m_File = "";       // 파싱 할 xml 파일명
+    Infos IM;
+    public string m_File = "";       // 파싱 할 xml 파일명
     
     void Start()
     {
+        IM = Infos.Instance;
         // 파싱 시작
         StartCoroutine(Process(m_File));
     }
@@ -33,7 +35,7 @@ public class XMLParser: MonoBehaviour
         WWW www = new WWW(strPath);
         yield return www;
 
-        // Debug.Log("Read Content : " + www.text);
+        Debug.Log("Read Content : " + www.text);
         Interpret(www.text, fileName);
     }
 
@@ -72,13 +74,12 @@ public class XMLParser: MonoBehaviour
                     {
                         int id = int.Parse(child.Attributes.GetNamedItem("id").Value);
                         string name = child.Attributes.GetNamedItem("name").Value;
+                        int price = int.Parse(child.Attributes.GetNamedItem("id").Value);
                         string imgPath = child.Attributes.GetNamedItem("imgPath").Value;
-                        int hp = int.Parse(child.Attributes.GetNamedItem("hp").Value);
-                        int ap = int.Parse(child.Attributes.GetNamedItem("ap").Value);
                         
-                        // ItemInfo item = new ItemInfo(id, name, imgPath);
-                        // 다 만들어 졌다면 이제 매니저에 넣어줍시다.
-                        // IM.AddItem(item);
+                        ItemInfo item = new ItemInfo(id, name, price, imgPath);
+                        // 다 만들어졌다면 이제 매니저에 넣어줍시다.
+                        IM.AddItem(item);
                     }
                 }
             }            
