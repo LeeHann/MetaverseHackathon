@@ -32,13 +32,15 @@ public class Infos : SingletonBase<Infos>
 public class ItemInfo
 {
    public int id;  
+   public string category;
    public string name;  // 상품 이름
    public int price;    // 상품 가격
    public string imgPath;
    
-   public ItemInfo(int id, string name, int price, string imgPath)
+   public ItemInfo(int id, string category, string name, int price, string imgPath)
    {
       this.id = id;
+      this.category = category;
       this.name = name;
       this.price = price;
       this.imgPath = imgPath;
