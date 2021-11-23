@@ -71,12 +71,22 @@ public class Player : MonoBehaviour
     }
     void Bad()
     {
+        RaycastHit[] hit;
+
         if (!isBad && cDown)
         {
             anim.SetTrigger("doBad");
             isBad = true;
-
             Invoke("BadOut", 0.1f);
+        }
+        else if (isBad)
+        {
+            hit = Physics.RaycastAll(transform.position, transform.forward);
+
+            Debug.DrawRay(transform.position, transform.forward * 10, Color.red);
+            for(int i=0;i<hit.Length;i++)
+                Debug.Log(hit[i].collider.name);
+           
         }
     }
     void BadOut()
