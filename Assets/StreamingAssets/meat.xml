@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+	<Field id="1" category="소고기" name="한우 앞다리(불고기용), 1등급 , 100g(600g 단위..." price="5380"/>
+	<Field id="2" category="소고기" name="농협 하나가득 한우 사태(국거리), 1등급, 300g" price="11040"/>
+	<Field id="3" category="소고기" name="한우 사태(국거리용), 1+등급, 100g(500g 단위 ..." price="5580"/>
+	<Field id="4" category="소고기" name="한우 양지(국거리용), 1등급, 100g(300g 단위로 ..." price="7180"/>
+	<Field id="5" category="소고기" name="횡성축협 한우 등심 스테이크, 1등급, 200g" price="23590"/>
+	<Field id="6" category="소고기" name="한우 사태(국거리용), 1등급, 100g(500g 단위로 ..." price="5380"/>
+	<Field id="7" category="소고기" name="한우 우둔(장조림용), 1+등급 , 100g(400g단위로..." price="5580"/>
+	<Field id="8" category="소고기" name="한우 등심(구이용), 1등급, 100g(400g 단위로 판..." price="11980"/>
+	<Field id="9" category="소고기" name="농협 하나가득 한우 목심(국거리), 1등급, 300g" price="11040"/>
+	<Field id="10" category="소고기" name="횡성축협 한우 불고기, 1등급, 200g" price="9060"/>
+	<Field id="11" category="소고기" name="한우 채끝(구이용), 1+등급 , 100g(400g단위로판..." price="14780"/>
+	<Field id="12" category="소고기" name="횡성축협 한우 국거리, 1등급, 200g" price="9060"/>
+	<Field id="13" category="소고기" name="한우 갈비(찜용), 1등급, 100g(1.3kg 단위로 판..." price="9500"/>
+	<Field id="14" category="소고기" name="횡성축협 한우 양지(국거리용), 1등급, 200g" price="13500"/>
+	<Field id="15" category="소고기" name="냉동 한우 잡뼈(탕용), 100g(2.5kg단위로판매)" price="480"/>
+	<Field id="16" category="소고기" name="한우 목심(국거리용), 1등급, 100g(500g 단위로 ..." price="5380"/>
+	<Field id="17" category="소고기" name="한우 다짐육(부위혼합), 1등급, 100g(400g단위로..." price="3980"/>
+	<Field id="18" category="소고기" name="한우 설도(산적용), 1++등급 , 100g(400g단위로..." price="5980"/>
+	<Field id="19" category="소고기" name="횡성축협 한우 채끝 스테이크(구이용), 1등급, 2..." price="30250"/>
+	<Field id="20" category="소고기" name="한우 설도(산적용), 1+등급 , 100g(400g 단위로 ..." price="5580"/>
+	<Field id="21" category="소고기" name="농협 하나가득 한우 채끝, 1등급, 200g" price="28300"/>
+	<Field id="22" category="소고기" name="횡성축협 한우 안심 스테이크(구이용), 1등급, 2..." price="34090"/>
+	<Field id="23" category="소고기" name="냉동 한우 사골(탕용), 100g(2.5kg단위로판매)" price="780"/>
+	<Field id="24" category="소고기" name="한우 목심(국거리용), 1+등급, 100g(500g 단위 ..." price="5580"/>
+	<Field id="25" category="소고기" name="농협 하나가득 한우 안심, 1등급, 150g" price="23600"/>
+	<Field id="26" category="소고기" name="농협 하나가득 한우 앞다리(불고기), 1등급, 300..." price="12500"/>
+	<Field id="27" category="소고기" name="농협 하나가득 한우 양지, 1등급, 300g" price="23100"/>
+	<Field id="28" category="소고기" name="한우 설도(불고기용), 1등급 , 100g(500g 단위로..." price="5380"/>
+	<Field id="29" category="소고기" name="한우 채끝(구이용), 1등급, 100g(400g단위로판매..." price="12780"/>
+	<Field id="30" category="소고기" name="한우 설도(산적용), 1등급 , 100g(400g 단위로 ..." price="5380"/>
+	<Field id="31" category="소고기" name="한우 등심(구이용), 1++등급, 100g(400g 단위 판..." price="16980"/>
+	<Field id="32" category="소고기" name="농협 하나가득 한우 등심, 1등급, 200g" price="25300"/>
+	<Field id="33" category="돼지고기" name="돈육 브랜드 앞다리(보쌈수육용), 100g(1kg단위..." price="1180"/>
+	<Field id="34" category="돼지고기" name="목우촌 프로포크 목심(구이용), 100g(600g 단위..." price="1800"/>
+	<Field id="35" category="돼지고기" name="목우촌 프로포크 돈육 갈비(찜용), 100g(1.5kg ..." price="1280"/>
+	<Field id="36" category="돼지고기" name="목우촌 프로포크 앞다리(다짐육), 100g(500g단위..." price="1180"/>
+	<Field id="37" category="돼지고기" name="프로포크 돈육 목심(불고기용), 100g(600g 단위..." price="1800"/>
+	<Field id="38" category="돼지고기" name="목우촌 프로포크 목심(찌개용), 100g(600g단위로..." price="1800"/>
+	<Field id="39" category="돼지고기" name="목우촌 명품 흑돼지 앞다리 보쌈(수육), 100g(60..." price="2380"/>
+	<Field id="40" category="돼지고기" name="목우촌 프로포크 등심(탕수육용)  , 100g(600g단..." price="1620"/>
+	<Field id="41" category="돼지고기" name="목우촌 명품 흑돼지 삼겹살(수육용), 100g(600g..." price="5480"/>
+	<Field id="42" category="돼지고기" name="도드람 돈육 목심(구이용), 100g(600g 단위로 판..." price="1800"/>
+	<Field id="43" category="돼지고기" name="목우촌 프로포크 앞다리(불고기용), 100g(1kg 단..." price="1180"/>
+	<Field id="44" category="돼지고기" name="목우촌 프로포크 앞다리(수육용), 100g(1kg단위..." price="1180"/>
+	<Field id="45" category="돼지고기" name="목우촌 프로포크 삼겹살(수육용), 100g(1kg단위..." price="2580"/>
+	<Field id="46" category="돼지고기" name="목우촌 프로포크 삼겹살(베이컨용), 100g(300g단..." price="2580"/>
+	<Field id="47" category="돼지고기" name="목우촌 명품 흑돼지 삼겹살(구이용), 100g(600g..." price="5480"/>
+	<Field id="48" category="돼지고기" name="목우촌 프로포크 삼겹살(구이용), 100g(600g 단..." price="2580"/>
+	<Field id="49" category="돼지고기" name="목우촌 프로포크 안심(장조림용), 100g(400g단위..." price="1640"/>
+	<Field id="50" category="돼지고기" name="목우촌 프로포크 등심(잡채용) , 100g(300g단위..." price="1620"/>
+	<Field id="51" category="돼지고기" name="제주 흑다돈 돈육 안심(장조림용) , 100g(600g단..." price="1560"/>
+	<Field id="52" category="돼지고기" name="도드람 돈육 앞다리(미박,불고기용), 100g(1kg ..." price="1240"/>
+	<Field id="53" category="돼지고기" name="프로포크 돈육 목심(수육용), 100g(1kg단위로판..." price="1800"/>
+	<Field id="54" category="돼지고기" name="목우촌 감자탕용 돼지등뼈, 2kg" price="7300"/>
+	<Field id="55" category="돼지고기" name="목우촌 명품 흑돼지 앞다리(구이용)  , 100g(600..." price="2380"/>
+	<Field id="56" category="돼지고기" name="브랜드 돈육 목심(구이용), 100g(600g 단위로 판..." price="1800"/>
+	<Field id="57" category="돼지고기" name="목우촌 명품 흑돼지 앞다리(불고기) , 100g(600g..." price="2380"/>
+	<Field id="58" category="돼지고기" name="제주 흑다돈 돈육 목심(보쌈(수육)), 100g(600g..." price="5380"/>
+	<Field id="59" category="돼지고기" name="제주 흑다돈 돈육 앞다리(불고기), 100g(600g단..." price="2480"/>
+	<Field id="60" category="돼지고기" name="제주 흑다돈 돈육 앞다리(구이용), 100g(600g단..." price="2480"/>
+	<Field id="61" category="돼지고기" name="목우촌 프로포크 등심(돈가스용), 100g(600g단위..." price="1620"/>
+	<Field id="62" category="돼지고기" name="목우촌 프로포크 등심(카레,짜장용), 100g(300g ..." price="1620"/>
+	<Field id="63" category="돼지고기" name="제주 흑다돈 돈육 갈비(찜용) , 100g(1.5kg단위 ..." price="1780"/>
+	<Field id="64" category="돼지고기" name="제주 흑다돈 돈육 목심(구이용), 100g/600단위 ..." price="5380"/>
+	<Field id="65" category="돼지고기" name="제주 흑다돈 돈육 삼겹살(보쌈(수육)), 100g(600..." price="5680"/>
+	<Field id="66" category="돼지고기" name="제주 흑다돈 돈육 삼겹살(구이용), 100g(600g단..." price="5680"/>
+	<Field id="67" category="돼지고기" name="아워홈 오리지널 바비큐 폭립, 450g" price="9850"/>
+	<Field id="68" category="돼지고기" name="목우촌 명품 흑돼지 목심(구이용), 100g(600g단..." price="4480"/>
+	<Field id="69" category="돼지고기" name="제주 흑다돈 돈육 앞다리(보쌈(수육)), 100g(600..." price="2480"/>
+	<Field id="70" category="닭고기" name="목우촌 닭고기 근위 , 500g" price="3930"/>
+	<Field id="71" category="닭고기" name="목우촌 연산 토종닭 11호, 1,050g" price="8990"/>
+	<Field id="72" category="닭고기" name="목우촌 닭고기 안심, 400g" price="5840"/>
+	<Field id="73" category="닭고기" name="목우촌 안심 삼계탕, 850g" price="8800"/>
+	<Field id="74" category="닭고기" name="농협 목우촌 닭고기 통닭 10호, 900g" price="6240"/>
+	<Field id="75" category="닭고기" name="하림 통닭 6호, 500g" price="4040"/>
+	<Field id="76" category="닭고기" name="목우촌 닭고기 통닭12호, 1100g" price="7780"/>
+	<Field id="77" category="닭고기" name="하림 닭다리(북채), 500g" price="6120"/>
+	<Field id="78" category="닭고기" name="목우촌 냉동 IQF 닭다리, 1kg" price="7630"/>
+	<Field id="79" category="닭고기" name="목우촌 닭고기 정육, 400g" price="5190"/>
+	<Field id="80" category="닭고기" name="목우촌 무뼈닭발, 900g" price="19160"/>
+	<Field id="81" category="닭고기" name="농협목우촌 프라임 리얼 로즈마리 훈제 닭가슴살..." price="5190"/>
+	<Field id="82" category="닭고기" name="목우촌 닭고기 가슴살, 400g" price="4880"/>
+	<Field id="83" category="닭고기" name="목우촌 IQF 닭가슴살, 1kg" price="7320"/>
+	<Field id="84" category="닭고기" name="목우촌 다리두배 닭볶음탕, 1200g" price="5980"/>
+	<Field id="85" category="닭고기" name="하림 닭볶음탕용, 1,000g" price="6230"/>
+	<Field id="86" category="닭고기" name="목우촌 닭고기 봉, 400g" price="6040"/>
+	<Field id="87" category="닭고기" name="냉동 목우촌  IQF 닭봉, 1kg" price="8430"/>
+	<Field id="88" category="닭고기" name="OKCOOK 참나무향 닭가슴살, 110g" price="1950"/>
+	<Field id="89" category="닭고기" name="올품 자연이 키운 닭 닭안심, 350g" price="4350"/>
+	<Field id="90" category="닭고기" name="올품 자연이 키운 닭 닭볶음탕용, 1000g" price="6100"/>
+	<Field id="91" category="닭고기" name="씨제이 비비고 삼계탕, 800g" price="10580"/>
+	<Field id="92" category="닭고기" name="목우촌 닭고기(닭발) , 1kg" price="7820"/>
+	<Field id="93" category="닭고기" name="목우촌 근위, 500g" price="4700"/>
+	<Field id="94" category="닭고기" name="목우촌 순진무가 가슴살, 300g" price="4860"/>
+	<Field id="95" category="닭고기" name="아워홈 고려 삼계탕, 800g" price="6980"/>
+	<Field id="96" category="닭고기" name="올품 자연이 키운 닭 닭다리살(정육), 350g" price="5120"/>
+	<Field id="97" category="닭고기" name="OKCOOK 영양반계탕, 600g" price="5280"/>
+	<Field id="98" category="닭고기" name="올품 홍삼 먹여 키운 토종닭, 1,550g" price="11220"/>
+	<Field id="99" category="닭고기" name="OKCOOK 부드러운 닭가슴살, 110g" price="1950"/>
+	<Field id="100" category="닭고기" name="올품 자연이 키운 닭 닭다리(북채), 350g" price="5120"/>
+	<Field id="101" category="닭고기" name="OKCOOK 영양녹두삼계탕, 850g" price="8480"/>
+	<Field id="102" category="닭고기" name="올품 토종닭 볶음용, 1kg" price="9820"/>
+	<Field id="103" category="닭고기" name="목우촌 순진무가 닭볶음탕용, 1200g" price="8760"/>
+	<Field id="104" category="닭고기" name="목우촌 닭고기 북채, 400g" price="4970"/>
+	<Field id="105" category="닭고기" name="목우촌 연산 토종닭(볶음탕용) , 1kg" price="10570"/>
+	<Field id="106" category="닭고기" name="목우촌 생생포차 국물닭발, 800g" price="10360"/>
+	<Field id="107" category="오리고기" name="농협 목우촌 오메가3 오리훈제 슬라이스, 400g" price="9180"/>
+	<Field id="108" category="오리고기" name="목우촌 오리훈제슬라이스, 600g" price="9880"/>
+	<Field id="109" category="오리고기" name="목우촌 주부9단 오리 통다리살 오븐구이 슬라이..." price="10400"/>
+	<Field id="110" category="오리고기" name="하림 주원산오리 싸먹는 오리슬라이스, 320g" price="8160"/>
+	<Field id="111" category="오리고기" name="의성마늘 오리훈제 슬라이스 , 400g" price="8980"/>
+	<Field id="112" category="오리고기" name="하림 주원산오리 와인으로 숙성한 훈제오리, 600..." price="14290"/>
+	<Field id="113" category="오리고기" name="셀덕 맛있는 오리 훈제 슬라이스, 600g" price="10500"/>
+	<Field id="114" category="오리고기" name="농협 녹차 오리훈제 슬라이스, 400g" price="6980"/>
+	<Field id="115" category="오리고기" name="목우촌 무항생제 통오리, 1.8kg" price="15320"/>
+	<Field id="116" category="오리고기" name="목우촌 오리훈제 슬라이스, 400g" price="6890"/>
+	<Field id="117" category="오리고기" name="셀덕 사각 오리훈제, 350g" price="7500"/>
+	<Field id="118" category="계란/구운계란" name="농협 동물복지 하얀 유정란, 10개입" price="5850"/>
+	<Field id="119" category="계란/구운계란" name="농협 하나가득 동물복지 유정란, 15개입" price="7930"/>
+	<Field id="120" category="계란/구운계란" name="농협 신선란(특란), 10개" price="3430"/>
+	<Field id="121" category="계란/구운계란" name="농협 1등급란(특란), 15개" price="5380"/>
+	<Field id="122" category="계란/구운계란" name="농협 1등급 제주한라산 깨끗한 계란(특란), 1..." price="6700"/>
+	<Field id="123" category="계란/구운계란" name="농협 신선란(특란), 30개" price="9480"/>
+	<Field id="124" category="계란/구운계란" name="오뚜기 깐메추리알, 1kg" price="10980"/>
+	<Field id="125" category="계란/구운계란" name="농협 하나가득 특란, 10개" price="3770"/>
+	<Field id="126" category="계란/구운계란" name="오뚜기 깐메추리알 , 300g" price="4480"/>
+	<Field id="127" category="계란/구운계란" name="농협 행복한 복지란, 15개입" price="9140"/>
+	<Field id="128" category="계란/구운계란" name="농협 신선란(특란), 15개" price="4910"/>
+	<Field id="129" category="계란/구운계란" name="농협 하나가득 특란, 15개" price="5700"/>
+	<Field id="130" category="계란/구운계란" name="농협 하나가득 왕란, 15개" price="5980"/>
+	<Field id="131" category="계란/구운계란" name="풀무원 목초 특란, 15개" price="9140"/>
+	<Field id="132" category="계란/구운계란" name="씨제이 깐메추리알, 270g" price="4980"/>
+	<Field id="133" category="계란/구운계란" name="OKCOOK 동글동글 깐메추리알, 300g" price="3210"/>
+	<Field id="134" category="계란/구운계란" name="풀무원 동물복지 목초란, 10개" price="7100"/>
+	<Field id="135" category="계란/구운계란" name="농협 유정란(특란), 15개" price="8760"/>
+	<Field id="136" category="계란/구운계란" name="씨제이 메추리알, 450g" price="7580"/>
+	<Field id="137" category="계란/구운계란" name="황실토종닭농장 유정초란, 15개" price="13350"/>
+	<Field id="138" category="계란/구운계란" name="농협 목우촌 깐메추리알, 450g" price="6480"/>
+	<Field id="139" category="계란/구운계란" name="풀무원 목초 촉촉란(반숙란), 10개" price="9400"/>
+	<Field id="140" category="계란/구운계란" name="마루카네 감동란, 6개" price="5200"/>
+	<Field id="141" category="계란/구운계란" name="농협 신선란(왕란), 15개" price="5150"/>
+</Items>

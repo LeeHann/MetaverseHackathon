@@ -25,7 +25,7 @@ public class TableMaker : MonoBehaviour
         foreach (var i in IM.dicData.Keys)
         {
             var item = IM.dicData[i];
-            Debug.Log("Dicdata : " + item.name);
+            Debug.Log("Dicdata : " + item.name + " : " + item.id + " : " + item.category + " : " + item.price);
             // Param은 뒤끝 서버와 통신을 할 때 넘겨주는 파라미터 클래스 입니다. 
             Param param = new Param();
             // 값을 Dictionary 로 사용하기
@@ -33,7 +33,7 @@ public class TableMaker : MonoBehaviour
             param.Add("category", item.category);
             param.Add("name", item.name);   // key, value
             param.Add("price", item.price);
-            param.Add("imgPath", item.imgPath);
+            // param.Add("imgPath", item.imgPath);
             // param.Add("dic", item);
 
             BackendReturnObject BRO = Backend.GameData.Insert(tableName, param);

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+	<Field id="1" category="감자/고구마/당근" name="햇감자(골라담기), 100g(1kg 단위로 판매)" price="300"/>
+	<Field id="2" category="감자/고구마/당근" name="흙당근(골라담기), 100g(500g이상 판매)" price="280"/>
+	<Field id="3" category="감자/고구마/당근" name="흙당근, 3입/봉" price="2580"/>
+	<Field id="4" category="감자/고구마/당근" name="영암 햇고구마(골라담기), 100g(1kg단위로판매)" price="460"/>
+	<Field id="5" category="감자/고구마/당근" name="친환경 당근, 1kg/봉" price="4180"/>
+	<Field id="6" category="감자/고구마/당근" name="고창 호박고구마, 2kg/박스" price="7980"/>
+	<Field id="7" category="감자/고구마/당근" name="고창 밤고구마, 2kg/박스" price="8580"/>
+	<Field id="8" category="감자/고구마/당근" name="꿀고구마, 10kg/박스" price="38000"/>
+	<Field id="9" category="감자/고구마/당근" name="무농약 밤고구마, 1kg/봉" price="4980"/>
+	<Field id="10" category="감자/고구마/당근" name="감자, 2kg/박스" price="4980"/>
+	<Field id="11" category="감자/고구마/당근" name="서광농협 고구마순, 80g" price="5200"/>
+	<Field id="12" category="오이/호박/가지/옥수수" name="친환경 가지 , 2입/봉" price="3280"/>
+	<Field id="13" category="오이/호박/가지/옥수수" name="미니단호박, 3과" price="8580"/>
+	<Field id="14" category="오이/호박/가지/옥수수" name="애호박, 1개" price="1480"/>
+	<Field id="15" category="오이/호박/가지/옥수수" name="다다기오이, 5입/봉" price="7280"/>
+	<Field id="16" category="오이/호박/가지/옥수수" name="친환경 애호박 , 1개" price="2380"/>
+	<Field id="17" category="오이/호박/가지/옥수수" name="취청오이, 3입" price="4980"/>
+	<Field id="18" category="오이/호박/가지/옥수수" name="다다기오이, 3입" price="5180"/>
+	<Field id="19" category="오이/호박/가지/옥수수" name="가지, 3입/봉" price="2780"/>
+	<Field id="20" category="오이/호박/가지/옥수수" name="산림조합 호박말림, 200g" price="6980"/>
+	<Field id="21" category="오이/호박/가지/옥수수" name="산림조합 가지말림, 100g" price="3950"/>
+	<Field id="22" category="오이/호박/가지/옥수수" name="서광농협 가지말림, 70g" price="3500"/>
+	<Field id="23" category="고추/파프리카/피망" name="친환경 청양고추, 100g/봉" price="1980"/>
+	<Field id="24" category="고추/파프리카/피망" name="친환경 풋고추 , 150g/봉" price="3280"/>
+	<Field id="25" category="고추/파프리카/피망" name="풋고추, 150g/봉" price="2280"/>
+	<Field id="26" category="고추/파프리카/피망" name="청피망 , 2입/봉" price="2580"/>
+	<Field id="27" category="고추/파프리카/피망" name="롱그린고추 , 300g/봉" price="3980"/>
+	<Field id="28" category="고추/파프리카/피망" name="홍고추, 150g/봉" price="2280"/>
+	<Field id="29" category="고추/파프리카/피망" name="청양고추, 150g/봉" price="1680"/>
+	<Field id="30" category="고추/파프리카/피망" name="오이맛 고추, 250g/봉" price="3280"/>
+	<Field id="31" category="고추/파프리카/피망" name="꽈리고추, 150g/봉" price="1880"/>
+	<Field id="32" category="고추/파프리카/피망" name="파프리카, 3입/봉" price="2980"/>
+	<Field id="33" category="고추/파프리카/피망" name="홍피망 , 2입/봉" price="3280"/>
+	<Field id="34" category="고추/파프리카/피망" name="모닝고추, 150g/봉" price="1580"/>
+	<Field id="35" category="고추/파프리카/피망" name="당조고추, 300g/팩" price="3680"/>
+	<Field id="36" category="고추/파프리카/피망" name="친환경 건고추, 2020년산, 150g/봉" price="9800"/>
+	<Field id="37" category="고추/파프리카/피망" name="해표 리얼큐브 다진청양고추, 23g" price="3480"/>
+	<Field id="38" category="고추/파프리카/피망" name="해남문내농협 명량 건고추(화건), 2020년산, 3..." price="69900"/>
+	<Field id="39" category="고추/파프리카/피망" name="안면도 태양초 건고추, 2021년산, 3kg" price="88000"/>
+	<Field id="40" category="양파/파/마늘/생강" name="흙쪽파(엇단), 1단" price="7980"/>
+	<Field id="41" category="양파/파/마늘/생강" name="친환경 생강 , 200g/봉" price="4680"/>
+	<Field id="42" category="양파/파/마늘/생강" name="친환경 파채, 120g/팩" price="2180"/>
+	<Field id="43" category="양파/파/마늘/생강" name="파채 , 120g/팩" price="1980"/>
+	<Field id="44" category="양파/파/마늘/생강" name="풀무원 찬마루 국산 다진마늘 , 150g" price="5880"/>
+	<Field id="45" category="양파/파/마늘/생강" name="친환경 깐마늘, 150g" price="3080"/>
+	<Field id="46" category="양파/파/마늘/생강" name="서산 6쪽마늘, 1kg/망" price="14800"/>
+	<Field id="47" category="양파/파/마늘/생강" name="대파, 800g/망" price="2380"/>
+	<Field id="48" category="양파/파/마늘/생강" name="생강(흙생강), 1kg/봉" price="4980"/>
+	<Field id="49" category="양파/파/마늘/생강" name="깐마늘(골라담기), 100g(200g단위로판매)" price="1180"/>
+	<Field id="50" category="양파/파/마늘/생강" name="의성마늘(한지형), 1kg/망" price="16800"/>
+	<Field id="51" category="양파/파/마늘/생강" name="친환경 중파, 300g/봉" price="1980"/>
+	<Field id="52" category="양파/파/마늘/생강" name="깐양파, 2~3입/봉" price="3480"/>
+	<Field id="53" category="양파/파/마늘/생강" name="양파, 1.5kg/망" price="3680"/>
+	<Field id="54" category="양파/파/마늘/생강" name="양파, 3kg/망" price="4800"/>
+	<Field id="55" category="양파/파/마늘/생강" name="깐마늘, 1kg/봉" price="8980"/>
+	<Field id="56" category="양파/파/마늘/생강" name="친환경 대파 , 500g/봉" price="2680"/>
+	<Field id="57" category="양파/파/마늘/생강" name="해남화원농협 이맑은 냉동 다진마늘, 1kg" price="13500"/>
+	<Field id="58" category="양파/파/마늘/생강" name="흙생강(골라담기), 100g(500g 이상 판매)" price="780"/>
+	<Field id="59" category="양파/파/마늘/생강" name="깐대파, 400g/봉" price="2980"/>
+	<Field id="60" category="양파/파/마늘/생강" name="친환경 양파, 3~9입/망" price="2980"/>
+	<Field id="61" category="양파/파/마늘/생강" name="씨제이 하선정 다진마늘, 250g" price="8480"/>
+	<Field id="62" category="양파/파/마늘/생강" name="깐쪽파 , 1봉" price="6380"/>
+	<Field id="63" category="양파/파/마늘/생강" name="홍성마늘(홍산), 800g/망" price="9900"/>
+	<Field id="64" category="양파/파/마늘/생강" name="씨제이 하선정 100% 국산 다진마늘, 150g" price="5880"/>
+	<Field id="65" category="양파/파/마늘/생강" name="새남해농협 해두룸 흑마늘, 250g" price="15000"/>
+	<Field id="66" category="양파/파/마늘/생강" name="새남해농협 해두룸 흑마늘, 500g" price="26200"/>
+	<Field id="67" category="양파/파/마늘/생강" name="새남해농협 해두룸 흑마늘, 300g" price="8900"/>
+	<Field id="68" category="양파/파/마늘/생강" name="지리산마천농협 흑마늘 통마늘, 500g" price="15000"/>
+	<Field id="69" category="양파/파/마늘/생강" name="해표 리얼큐브 다진마늘, 23g" price="3480"/>
+	<Field id="70" category="양파/파/마늘/생강" name="[4+1]해두룸 흑마늘, 500g x 3개" price="69000"/>
+	<Field id="71" category="양파/파/마늘/생강" name="새남해농협 해두룸 흑마늘, 250g*3개" price="43500"/>
+	<Field id="72" category="양파/파/마늘/생강" name="풀무원 찬마루 국산 다진마늘, 250g" price="8480"/>
+	<Field id="73" category="양파/파/마늘/생강" name="새남해농협 깐흑마늘 , 150g" price="15000"/>
+	<Field id="74" category="양파/파/마늘/생강" name="친환경 실파 , 200g/봉" price="2380"/>
+	<Field id="75" category="양파/파/마늘/생강" name="채올 동결건조 다진마늘, 20g" price="3500"/>
+	<Field id="76" category="양파/파/마늘/생강" name="해표 리얼큐브 다진생강, 23g" price="3480"/>
+	<Field id="77" category="무/알타리무/열무/얼갈이" name="무, 1개" price="1980"/>
+	<Field id="78" category="무/알타리무/열무/얼갈이" name="다발무, 1단" price="5100"/>
+	<Field id="79" category="무/알타리무/열무/얼갈이" name="열무, 1단/봉" price="3980"/>
+	<Field id="80" category="무/알타리무/열무/얼갈이" name="천수무, 1단" price="6980"/>
+	<Field id="81" category="무/알타리무/열무/얼갈이" name="알타리무, 1단" price="4380"/>
+	<Field id="82" category="무/알타리무/열무/얼갈이" name="신림농협 햇살보석 무말림, 200g" price="4350"/>
+	<Field id="83" category="무/알타리무/열무/얼갈이" name="얼갈이, 1단" price="3980"/>
+	<Field id="84" category="무/알타리무/열무/얼갈이" name="친환경 무 , 1개" price="1680"/>
+	<Field id="85" category="무/알타리무/열무/얼갈이" name="친환경 무말랭이, 100g/봉" price="2750"/>
+	<Field id="86" category="무/알타리무/열무/얼갈이" name="펌프킨 이른단비 무말랭이, 200g" price="4200"/>
+	<Field id="87" category="무/알타리무/열무/얼갈이" name="친환경 얼갈이, 400g/봉" price="2580"/>
+	<Field id="88" category="배추/절임배추/봄동" name="홍갓, 1단" price="2280"/>
+	<Field id="89" category="배추/절임배추/봄동" name="알배기배추, 1통" price="2980"/>
+	<Field id="90" category="배추/절임배추/봄동" name="봄동(골라담기), 100g(500g 이상 구매가능)" price="380"/>
+	<Field id="91" category="배추/절임배추/봄동" name="알배기 배추(골라담기), 1개" price="2980"/>
+	<Field id="92" category="배추/절임배추/봄동" name="배추 , 1통" price="4200"/>
+	<Field id="93" category="배추/절임배추/봄동" name="돌산갓, 1단" price="4980"/>
+	<Field id="94" category="배추/절임배추/봄동" name="해남 화원농협 절임배추, 10kg/박스" price="34900"/>
+	<Field id="95" category="배추/절임배추/봄동" name="서안동농협 풍산 절임배추, 10kg/박스" price="31900"/>
+	<Field id="96" category="배추/절임배추/봄동" name="친환경 봄동, 1포기" price="3280"/>
+	<Field id="97" category="배추/절임배추/봄동" name="서안동농협 풍산 절임배추, 10kg/박스" price="31900"/>
+	<Field id="98" category="배추/절임배추/봄동" name="해남 화원농협 절임배추, 10kg/박스" price="34900"/>
+	<Field id="99" category="배추/절임배추/봄동" name="농협 아름찬 절임배추, 10kg/박스" price="31900"/>
+	<Field id="100" category="양배추/양상추/브로콜리/샐러드" name="친환경 적채 , 1통" price="4580"/>
+	<Field id="101" category="양배추/양상추/브로콜리/샐러드" name="친환경 모듬새싹 , 120g/팩" price="3780"/>
+	<Field id="102" category="양배추/양상추/브로콜리/샐러드" name="베이비채소 , 50g/팩" price="1780"/>
+	<Field id="103" category="양배추/양상추/브로콜리/샐러드" name="양배추, 1통" price="2900"/>
+	<Field id="104" category="양배추/양상추/브로콜리/샐러드" name="양배추 , 반통" price="1480"/>
+	<Field id="105" category="양배추/양상추/브로콜리/샐러드" name="브로콜리 , 1개" price="3180"/>
+	<Field id="106" category="양배추/양상추/브로콜리/샐러드" name="콜라비, 1개" price="1180"/>
+	<Field id="107" category="양배추/양상추/브로콜리/샐러드" name="양상추, 1통" price="3280"/>
+	<Field id="108" category="양배추/양상추/브로콜리/샐러드" name="친환경 어린잎채소(혼합) , 50g/팩" price="3480"/>
+	<Field id="109" category="양배추/양상추/브로콜리/샐러드" name="친환경 프리미엄 반반샐러드, 120g" price="2980"/>
+	<Field id="110" category="양배추/양상추/브로콜리/샐러드" name="샐러리, 1개" price="3980"/>
+	<Field id="111" category="양배추/양상추/브로콜리/샐러드" name="지중해 샐러드, 200g/팩" price="3580"/>
+	<Field id="112" category="양배추/양상추/브로콜리/샐러드" name="콜리플라워 , 1개" price="6980"/>
+	<Field id="113" category="양배추/양상추/브로콜리/샐러드" name="피크닉 야채샐러드 , 500g/봉" price="4980"/>
+	<Field id="114" category="양배추/양상추/브로콜리/샐러드" name="참살이 야채샐러드 , 500g/봉" price="4380"/>
+	<Field id="115" category="양배추/양상추/브로콜리/샐러드" name="적채, 1통" price="3980"/>
+	<Field id="116" category="양배추/양상추/브로콜리/샐러드" name="유러피안 샐러드, 300g" price="3580"/>
+	<Field id="117" category="양배추/양상추/브로콜리/샐러드" name="새싹 채소, 50g/팩" price="850"/>
+	<Field id="118" category="양배추/양상추/브로콜리/샐러드" name="라디치오, 1통" price="3280"/>
+	<Field id="119" category="상추/깻잎/쌈채소" name="친환경 파채, 120g/팩" price="2180"/>
+	<Field id="120" category="상추/깻잎/쌈채소" name="친환경 치커리 , 150g/봉" price="1980"/>
+	<Field id="121" category="상추/깻잎/쌈채소" name="포기모듬상추, 300g/봉" price="2380"/>
+	<Field id="122" category="상추/깻잎/쌈채소" name="청상추, 150g/봉" price="1580"/>
+	<Field id="123" category="상추/깻잎/쌈채소" name="적상추, 150g/봉" price="1580"/>
+	<Field id="124" category="상추/깻잎/쌈채소" name="친환경 청경채 , 200g/봉" price="2280"/>
+	<Field id="125" category="상추/깻잎/쌈채소" name="로메인 상추, 1봉" price="1180"/>
+	<Field id="126" category="상추/깻잎/쌈채소" name="청경채, 1봉" price="1680"/>
+	<Field id="127" category="상추/깻잎/쌈채소" name="깻잎, 1봉" price="1280"/>
+	<Field id="128" category="상추/깻잎/쌈채소" name="모듬쌈, 300g/봉" price="2980"/>
+	<Field id="129" category="상추/깻잎/쌈채소" name="쌈추(골라담기) , 100g(200g이상구매가능)" price="2180"/>
+	<Field id="130" category="상추/깻잎/쌈채소" name="깻잎나물(골라담기), 100g(200g이상구매가능)" price="1680"/>
+	<Field id="131" category="상추/깻잎/쌈채소" name="GAP 추부깻순, 1봉" price="3980"/>
+	<Field id="132" category="상추/깻잎/쌈채소" name="친환경 적상추 , 150g/봉" price="2380"/>
+	<Field id="133" category="상추/깻잎/쌈채소" name="친환경 청상추 , 150g/봉" price="2380"/>
+	<Field id="134" category="상추/깻잎/쌈채소" name="깻잎, 50장/봉" price="2380"/>
+	<Field id="135" category="상추/깻잎/쌈채소" name="친환경 쌈케일 , 100g/봉" price="1980"/>
+	<Field id="136" category="상추/깻잎/쌈채소" name="친환경 쌈모음, 200g/봉" price="3780"/>
+	<Field id="137" category="상추/깻잎/쌈채소" name="적로메인 상추, 1봉" price="1180"/>
+	<Field id="138" category="버섯류" name="흑목이버섯, 30g" price="4180"/>
+	<Field id="139" category="버섯류" name="흰색느티만가닥버섯, 150g/팩" price="1980"/>
+	<Field id="140" category="버섯류" name="황금 팽이버섯 , 200g/팩" price="2980"/>
+	<Field id="141" category="버섯류" name="표고버섯(상,골라담기), 100g(300g이상 판매)" price="1380"/>
+	<Field id="142" category="버섯류" name="양송이버섯(골라담기), 100g(300g 이상 판매)" price="2380"/>
+	<Field id="143" category="버섯류" name="느타리버섯(골라담기), 100g(300g단위로 판매)" price="2280"/>
+	<Field id="144" category="버섯류" name="머쉬마루(아위버섯) , 250g x 2봉" price="4280"/>
+	<Field id="145" category="버섯류" name="꼬마새송이(대), 500g/팩" price="2080"/>
+	<Field id="146" category="버섯류" name="새송이버섯, 2봉(300g+300g)" price="2880"/>
+	<Field id="147" category="버섯류" name="새송이버섯, 500g/팩" price="2980"/>
+	<Field id="148" category="버섯류" name="팽이버섯, 150g" price="520"/>
+	<Field id="149" category="버섯류" name="서광농협 표고버섯절편, 100g" price="7800"/>
+	<Field id="150" category="버섯류" name="해송이버섯 , 1팩" price="2480"/>
+	<Field id="151" category="버섯류" name="정남진 장흥농협 영지버섯(절편), 200g" price="20700"/>
+	<Field id="152" category="버섯류" name="정남진 장흥농협 표고버섯(향고), 200g" price="15300"/>
+	<Field id="153" category="버섯류" name="믿음영농조합 표고버섯(화고), 180g" price="25200"/>
+	<Field id="154" category="버섯류" name="정남진 장흥농협 표고 슬라이스, 100g" price="8200"/>
+	<Field id="155" category="버섯류" name="정남진 장흥농협 상황버섯, 100g" price="21000"/>
+	<Field id="156" category="버섯류" name="정남진 장흠농협 표고 슬라이스, 200g" price="15550"/>
+	<Field id="157" category="버섯류" name="흰목이버섯, 25g/팩" price="7800"/>
+	<Field id="158" category="버섯류" name="서광농협 표고버섯, 100g" price="9300"/>
+	<Field id="159" category="버섯류" name="서광농협 표고버섯 깍두기, 80g" price="7850"/>
+	<Field id="160" category="버섯류" name="영주농협 한산에 영지, 200g" price="23000"/>
+	<Field id="161" category="버섯류" name="정남진 장흥농협 표고 깍두기, 200g" price="16300"/>
+	<Field id="162" category="버섯류" name="건표고버섯, 100g/팩" price="8900"/>
+	<Field id="163" category="버섯류" name="서광농협 백화고, 300g" price="32000"/>
+	<Field id="164" category="버섯류" name="흑화고버섯, 80g/팩" price="9800"/>
+	<Field id="165" category="버섯류" name="백화고(특), 300g" price="90900"/>
+	<Field id="166" category="버섯류" name="믿음영농조합 표고버섯(화고), 400g" price="47500"/>
+	<Field id="167" category="버섯류" name="서광농협 영지버섯(절편), 200g" price="21200"/>
+	<Field id="168" category="버섯류" name="서광농협 목이버섯, 35g" price="6050"/>
+	<Field id="169" category="버섯류" name="정남진 장흥농협 표고버섯(향고), 300g" price="22950"/>
+	<Field id="170" category="버섯류" name="정남진 장흥농협 상황버섯(절편), 250g" price="45600"/>
+	<Field id="171" category="버섯류" name="서광농협 영지버섯(절편), 500g" price="52700"/>
+	<Field id="172" category="버섯류" name="정남진 장흥농협 건표고 슬라이스, 500g" price="23400"/>
+	<Field id="173" category="버섯류" name="정남진 장흥농협 표고버섯(백화고), 200g" price="21000"/>
+	<Field id="174" category="버섯류" name="친환경 건송미향버섯, 100g" price="14500"/>
+	<Field id="175" category="버섯류" name="믿음영농조합 상황버섯, 60g" price="15700"/>
+	<Field id="176" category="버섯류" name="녹각영지버섯 , 30g/팩" price="5980"/>
+	<Field id="177" category="버섯류" name="믿음영농조합 표고버섯(향고), 200g" price="13000"/>
+	<Field id="178" category="버섯류" name="정남진 장흥농협 표고버섯(백화고) , 300g" price="30900"/>
+	<Field id="179" category="버섯류" name="서광농협 표고원형, 200g" price="15700"/>
+	<Field id="180" category="버섯류" name="친환경 동충하초 버섯, 170g/팩" price="4380"/>
+	<Field id="181" category="버섯류" name="정남진 장흥농협 표고 깍두기 , 100g" price="8650"/>
+	<Field id="182" category="버섯류" name="서광농협 표고버섯절편, 180g" price="14700"/>
+</Items>

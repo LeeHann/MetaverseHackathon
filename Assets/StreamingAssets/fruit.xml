@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+	<Field id="1" category="사과/배" name="청송사과, 2.5kg(6~10입)/박스" price="15800"/>
+	<Field id="2" category="사과/배" name="고당도 사과, 4~5과/봉" price="8900"/>
+	<Field id="3" category="사과/배" name="청송사과, 1봉" price="8300"/>
+	<Field id="4" category="사과/배" name="햇배, 3입/팩" price="10800"/>
+	<Field id="5" category="사과/배" name="저탄소 사과, 2kg/봉" price="5980"/>
+	<Field id="6" category="사과/배" name="저탄소 봉화 사과, 1.2kg(5~6입)/봉" price="6980"/>
+	<Field id="7" category="사과/배" name="배, 3kg(4~7과)/박스" price="8980"/>
+	<Field id="8" category="사과/배" name="껍질째 먹는 안심 사과, 2.5kg / 박스" price="16800"/>
+	<Field id="9" category="사과/배" name="실속 사과, 2kg/봉" price="8500"/>
+	<Field id="10" category="사과/배" name="사과, 3과/팩" price="10800"/>
+	<Field id="11" category="사과/배" name="저탄소 봉화 사과, 2.5kg/박스" price="14800"/>
+	<Field id="12" category="사과/배" name="고당도 칼슘 사과, 3kg/박스" price="21800"/>
+	<Field id="13" category="사과/배" name="저탄소 배, 4입/봉" price="7200"/>
+	<Field id="14" category="사과/배" name="사과(골라담기), 5개" price="8980"/>
+	<Field id="15" category="사과/배" name="배, 4입/봉" price="5980"/>
+	<Field id="16" category="사과/배" name="사과, 2.5kg / 박스" price="9800"/>
+	<Field id="17" category="사과/배" name="사과, 2입/팩" price="9980"/>
+	<Field id="18" category="사과/배" name="배, 1입/팩" price="7500"/>
+	<Field id="19" category="사과/배" name="한끼과일 사과  , 150g/팩" price="2000"/>
+	<Field id="20" category="토마토/방울토마토" name="칼라방울토마토, 1kg/팩" price="6800"/>
+	<Field id="21" category="토마토/방울토마토" name="초코방울토마토, 1kg/팩" price="6800"/>
+	<Field id="22" category="토마토/방울토마토" name="완숙토마토, 2kg/팩" price="4980"/>
+	<Field id="23" category="토마토/방울토마토" name="완숙토마토, 4kg/박스" price="16500"/>
+	<Field id="24" category="토마토/방울토마토" name="친환경 대추방울토마토, 1.5kg/박스" price="10800"/>
+	<Field id="25" category="토마토/방울토마토" name="친환경 대추방울토마토, 500g/팩" price="3900"/>
+	<Field id="26" category="토마토/방울토마토" name="대추방울토마토, 2kg/박스" price="12800"/>
+	<Field id="27" category="토마토/방울토마토" name="친환경 완숙 토마토 , 1kg/봉지" price="6500"/>
+	<Field id="28" category="토마토/방울토마토" name="대추방울토마토, 500g/팩" price="3500"/>
+	<Field id="29" category="토마토/방울토마토" name="칼라방울토마토, 500g/팩" price="3500"/>
+	<Field id="30" category="토마토/방울토마토" name="초코대추방울토마토, 500g/팩" price="4500"/>
+	<Field id="31" category="수박/참외/멜론" name="얼스 멜론, 1통" price="11800"/>
+	<Field id="32" category="감귤/한라봉/오렌지" name="레드향, 1.5kg/박스" price="19800"/>
+	<Field id="33" category="감귤/한라봉/오렌지" name="황금향, 2kg/박스" price="11900"/>
+	<Field id="34" category="감귤/한라봉/오렌지" name="노지 감귤, 4kg(2S~L)/박스" price="9900"/>
+	<Field id="35" category="감귤/한라봉/오렌지" name="한라봉, 3kg(10과)/박스" price="36800"/>
+	<Field id="36" category="포도/복숭아" name="세레단 포도, 1.5kg/박스" price="8900"/>
+	<Field id="37" category="포도/복숭아" name="샤인머스켓, 1.5kg/박스" price="21800"/>
+	<Field id="38" category="딸기/블루베리/아로니아" name="딸기, 500g/팩" price="10800"/>
+	<Field id="39" category="딸기/블루베리/아로니아" name="딸기(금실), 500g/팩" price="16800"/>
+	<Field id="40" category="감/곶감" name="대봉시, 2.5kg/박스" price="16800"/>
+	<Field id="41" category="감/곶감" name="상주 시상곶감, 500g" price="13000"/>
+	<Field id="42" category="감/곶감" name="단감(2L), 5입/봉" price="7800"/>
+	<Field id="43" category="감/곶감" name="상주 접시곶감, 300g" price="12300"/>
+	<Field id="44" category="감/곶감" name="단감, 3kg/박스" price="13800"/>
+	<Field id="45" category="감/곶감" name="서상주농협 곶감, 500g" price="16250"/>
+	<Field id="46" category="감/곶감" name="접시곶감, 300g/팩" price="16000"/>
+	<Field id="47" category="감/곶감" name="명실상주 반건시 곶감 , 500g/팩" price="19000"/>
+	<Field id="48" category="감/곶감" name="산동농협 청도 감말랭이, 400g" price="12000"/>
+	<Field id="49" category="감/곶감" name="산도농협 떠먹는 아이스 홍시, 420g" price="7300"/>
+	<Field id="50" category="감/곶감" name="중화농협 뜨라네 상주곶감, 420g" price="17600"/>
+	<Field id="51" category="매실/자두" name="웰푸드 건자두, 550g" price="7500"/>
+	<Field id="52" category="키위/참다래" name="골드키위점보 , 8개/팩" price="9500"/>
+	<Field id="53" category="키위/참다래" name="골드키위, 4~6입/팩, 1+1" price="8500"/>
+	<Field id="54" category="키위/참다래" name="키위(한라스위트) 점보, 6~9입/팩" price="8980"/>
+	<Field id="55" category="키위/참다래" name="그린키위, 8~12입/팩, 1+1" price="6900"/>
+	<Field id="56" category="키위/참다래" name="그린키위점보 , 6~9개/팩" price="7500"/>
+</Items>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+	<Field id="1" category="고등어/갈치/삼치/대구" name="안동 간고등어, 400g" price="3600"/>
+	<Field id="2" category="고등어/갈치/삼치/대구" name="씨제이 비비고 순살 삼치구이, 60g" price="3480"/>
+	<Field id="3" category="고등어/갈치/삼치/대구" name="해마 대구살 전감, 400g" price="7660"/>
+	<Field id="4" category="고등어/갈치/삼치/대구" name="아라찬 가시없는 삼치 토막, 600g" price="15800"/>
+	<Field id="5" category="고등어/갈치/삼치/대구" name="올레바당 옥돔(팩), 300g" price="16900"/>
+	<Field id="6" category="고등어/갈치/삼치/대구" name="알찬해 훈제연어 슬라이스, 250g" price="12300"/>
+	<Field id="7" category="고등어/갈치/삼치/대구" name="간편해 삼치, 500g" price="11440"/>
+	<Field id="8" category="고등어/갈치/삼치/대구" name="아라찬 가시없는 고등어 필렛, 800g" price="15800"/>
+	<Field id="9" category="고등어/갈치/삼치/대구" name="씨제이 비비고 노릇하게 구운 갈치구이, 70g" price="4980"/>
+	<Field id="10" category="고등어/갈치/삼치/대구" name="아라찬 곱게다진 대구살, 120g" price="11500"/>
+	<Field id="11" category="굴비/조기/명태/동태" name="쓰리에스씨푸드 냉동 절단동태 , 1kg" price="5900"/>
+	<Field id="12" category="굴비/조기/명태/동태" name="담백한 명태포, 150g" price="7300"/>
+	<Field id="13" category="굴비/조기/명태/동태" name="뽀로로와 함께먹는 순살 명태구이, 240g" price="11900"/>
+	<Field id="14" category="굴비/조기/명태/동태" name="광해물산 늘해랑 두절노가리 , 200g" price="8200"/>
+	<Field id="15" category="굴비/조기/명태/동태" name="해마 손질한 동태 , 1미(600g 이상)" price="6900"/>
+	<Field id="16" category="굴비/조기/명태/동태" name="영광황토굴비 법성포 마른부세조기, 1미" price="15000"/>
+	<Field id="17" category="굴비/조기/명태/동태" name="법성포 참맛굴비, 800g(10미)" price="14800"/>
+	<Field id="18" category="굴비/조기/명태/동태" name="해마 동태살 전감, 400g" price="5370"/>
+	<Field id="19" category="굴비/조기/명태/동태" name="광해물산 명태피, 150g" price="3880"/>
+	<Field id="20" category="오징어/낙지/문어/쭈꾸미" name="냉동 초코오징어, 2미/팩" price="8500"/>
+	<Field id="21" category="오징어/낙지/문어/쭈꾸미" name="알찬해 냉동 절단낙지, 500g" price="12080"/>
+	<Field id="22" category="오징어/낙지/문어/쭈꾸미" name="한길에스디 오징어채, 400g" price="9500"/>
+	<Field id="23" category="새우/게" name="미스타 냉동 흰다리 새우살(탈각), 300g(30미)" price="7500"/>
+	<Field id="24" category="새우/게" name="하나가득 냉동 생칵테일 새우살(41/50), 600g" price="13600"/>
+	<Field id="25" category="새우/게" name="아라찬 곱게다진 게살, 120g" price="8500"/>
+	<Field id="26" category="새우/게" name="하나가득 새우살(71/90), 600g" price="9200"/>
+	<Field id="27" category="새우/게" name="아라찬 곱게다진 새우살, 120g" price="10500"/>
+	<Field id="28" category="새우/게" name="해마 냉동 생 칵테일 새우, 300g" price="9600"/>
+	<Field id="29" category="전복/굴/조개" name="봉지 굴, 350g" price="7000"/>
+	<Field id="30" category="전복/굴/조개" name="서해키조개영어조합법인 명품관자 , 200g" price="12900"/>
+	<Field id="31" category="전복/굴/조개" name="활전복(중), 6미/팩" price="11400"/>
+	<Field id="32" category="멸치/건새우/황태" name="북강릉농협 황태포, 1마리" price="9400"/>
+	<Field id="33" category="멸치/건새우/황태" name="농협 하나가득 황태포, 5미" price="22320"/>
+	<Field id="34" category="멸치/건새우/황태" name="북강릉농협 황태실채, 80g" price="8100"/>
+	<Field id="35" category="멸치/건새우/황태" name="북강릉농협 황태채, 100g" price="9800"/>
+	<Field id="36" category="멸치/건새우/황태" name="사조 해표 딱새우 해물 100%국산 다시팩, 150g" price="6980"/>
+	<Field id="37" category="멸치/건새우/황태" name="농협유통 국물용멸치(다시), 1.5kg / 박스" price="9900"/>
+	<Field id="38" category="멸치/건새우/황태" name="사조 해표 멸치디포리 100%국산 다시팩, 150g" price="6980"/>
+	<Field id="39" category="멸치/건새우/황태" name="속초농협 설악골 통황태, 1마리" price="8900"/>
+	<Field id="40" category="멸치/건새우/황태" name="대상 청정원 맛선생 해물원물팩, 65g(13g*5개)" price="5480"/>
+	<Field id="41" category="멸치/건새우/황태" name="하나가득 쫀드기 손질먹태, 120g x 2개" price="13740"/>
+	<Field id="42" category="멸치/건새우/황태" name="북강릉농협 황태포 특, 1마리" price="12500"/>
+	<Field id="43" category="멸치/건새우/황태" name="청정원 맛선생 통멸치 원물팩, 75g(15g x 5개..." price="4980"/>
+	<Field id="44" category="멸치/건새우/황태" name="속초농협 설악골 황태채, 300g" price="24600"/>
+	<Field id="45" category="멸치/건새우/황태" name="속초농협 설악골 황태채 , 150g" price="12700"/>
+	<Field id="46" category="멸치/건새우/황태" name="이미지 표고멸치다시팩, 15g x 10개" price="9300"/>
+	<Field id="47" category="멸치/건새우/황태" name="농협 하나가득 황태채 , 250g" price="22400"/>
+	<Field id="48" category="멸치/건새우/황태" name="북강릉농협 자른황태 , 400g" price="43570"/>
+	<Field id="49" category="멸치/건새우/황태" name="북강릉농협 통황태, 1마리" price="8500"/>
+	<Field id="50" category="멸치/건새우/황태" name="북강릉농협 황태채, 200g" price="19500"/>
+	<Field id="51" category="멸치/건새우/황태" name="사조 해표 야채 100%국산 다시팩, 150g" price="6980"/>
+	<Field id="52" category="멸치/건새우/황태" name="이미지 해물멸치다시팩, 16g x 10개" price="8600"/>
+	<Field id="53" category="멸치/건새우/황태" name="동해식품 해살이 황토가마에 구운 다시팩(새우로..." price="10690"/>
+	<Field id="54" category="멸치/건새우/황태" name="속초농협 설악골 고사포(황태), 1미" price="12000"/>
+	<Field id="55" category="김/미역" name="농협 하나가득 실미역, 70g" price="1700"/>
+	<Field id="56" category="김/미역" name="풀무원 김먹고 튼튼한 뽀로로 키즈김 , 4g*6봉" price="3980"/>
+	<Field id="57" category="김/미역" name="농협 하나가득 자른미역, 150g" price="5400"/>
+	<Field id="58" category="김/미역" name="기장물산 맘씨푸드 명품 기장애다시마, 100g" price="5100"/>
+	<Field id="59" category="김/미역" name="완도농협 섬마을 미역, 400g" price="14600"/>
+	<Field id="60" category="김/미역" name="황금물산 먼바다 참미역, 150g" price="10100"/>
+	<Field id="61" category="김/미역" name="동원FB 양반 들기름김, 5g x 16봉" price="4230"/>
+	<Field id="62" category="김/미역" name="동부산농협 기장미역, 100g" price="4310"/>
+	<Field id="63" category="김/미역" name="청산농협 명품 파래김, 100장" price="8430"/>
+	<Field id="64" category="김/미역" name="건청각, 1팩" price="5880"/>
+	<Field id="65" category="김/미역" name="동원 양반 참기름김, 4g x 16개" price="3730"/>
+	<Field id="66" category="김/미역" name="사조 대림생 명품 김밥세트 , 520g(김밥 10줄..." price="5680"/>
+	<Field id="67" category="김/미역" name="농협 하나가득 광천 올리브유로 구운 재래김, 60..." price="3530"/>
+	<Field id="68" category="김/미역" name="농협 하나가득 광천 올리브유로 구운 파래김, 64..." price="5300"/>
+	<Field id="69" category="김/미역" name="기장물산 명품기장다시마, 200g" price="8900"/>
+	<Field id="70" category="김/미역" name="하나가득 광천 올리브유로 구운 돌김, 4g x 1..." price="5300"/>
+	<Field id="71" category="김/미역" name="동원 양반 올리브김, 4g x 16개" price="5800"/>
+	<Field id="72" category="김/미역" name="농협 하나가득 광천 올리브유로 구운 파래김, 60..." price="3530"/>
+	<Field id="73" category="김/미역" name="청산농협 명품 참맛있는 미역, 200g" price="7600"/>
+	<Field id="74" category="김/미역" name="광천김 카카오 집에서 만드는 삼각김밥용김, 20..." price="1990"/>
+	<Field id="75" category="김/미역" name="청산농협 명품 뿌리 다시마, 600g" price="26300"/>
+	<Field id="76" category="김/미역" name="청산농협 감태, 10장" price="11000"/>
+	<Field id="77" category="김/미역" name="쌈다시마 , 400g" price="2700"/>
+	<Field id="78" category="김/미역" name="황금물산 먼바다 뿌리다시마, 250g" price="12430"/>
+	<Field id="79" category="김/미역" name="청산농협 명품 참 맛있는 미역, 100g" price="4200"/>
+	<Field id="80" category="김/미역" name="청산농협 명품 미니돌각, 100g" price="6200"/>
+	<Field id="81" category="김/미역" name="청산농협 명품 톳, 200g" price="10520"/>
+	<Field id="82" category="김/미역" name="오희숙 전통부각 김부각, 30g" price="8800"/>
+	<Field id="83" category="김/미역" name="풀무원 주먹밥대장 볶은김, 30g" price="3080"/>
+	<Field id="84" category="김/미역" name="청산농협 명품 세모초, 80g" price="10520"/>
+	<Field id="85" category="김/미역" name="청산농협 명품 미역귀채, 130g" price="10520"/>
+	<Field id="86" category="김/미역" name="해맑은 번영 2번 씻은 찐 톳, 70g(4인분)" price="5500"/>
+	<Field id="87" category="김/미역" name="해저식품 광천해저 김자반볶음, 50g x 2개" price="2860"/>
+	<Field id="88" category="김/미역" name="청산농협 명품 건파래 자반, 250g" price="12400"/>
+	<Field id="89" category="김/미역" name="청산농협 명품 참미역, 25g x 8개" price="11700"/>
+	<Field id="90" category="김/미역" name="청산농협 산모미역 대장각, 300g" price="28800"/>
+	<Field id="91" category="김/미역" name="동원 양반 들기름 반장김, 10g x 6개" price="5200"/>
+	<Field id="92" category="김/미역" name="풀무원 키즈 김자반, 60g" price="4300"/>
+	<Field id="93" category="김/미역" name="청산농협 명품 커트 미역, 100g" price="5500"/>
+	<Field id="94" category="김/미역" name="문경미소 문희양파김, 5g x 16봉" price="3900"/>
+	<Field id="95" category="김/미역" name="해맑은번영 기장각 , 400g" price="21400"/>
+	<Field id="96" category="김/미역" name="내설악전통식품 다시마환 리필, 380g" price="15640"/>
+	<Field id="97" category="김/미역" name="청산농협 명품 재래김, 100장" price="18500"/>
+	<Field id="98" category="김/미역" name="청산농협 명품 김밥용김, 100매" price="12630"/>
+	<Field id="99" category="김/미역" name="광천농협 국산 참기름 녹차김, 64g(4g x 16봉)" price="5830"/>
+	<Field id="100" category="김/미역" name="청산농협 명품 미역귀, 100g" price="4210"/>
+	<Field id="101" category="김/미역" name="동부산농협 기장재래미역, 100g" price="9500"/>
+	<Field id="102" category="김/미역" name="하나가득 광천 올리브유로 구운 돌김, 20g*3봉" price="3720"/>
+	<Field id="103" category="김/미역" name="광천 해저 올리브 김자반볶음, 50g X 2개" price="3900"/>
+	<Field id="104" category="김/미역" name="청산농협 꼬시래기, 100g" price="5270"/>
+	<Field id="105" category="김/미역" name="광천농협 국산 참기름 녹차김, 60g(20g x 3봉)" price="5000"/>
+	<Field id="106" category="김/미역" name="참바다 미역줄기, 400g" price="2700"/>
+	<Field id="107" category="김/미역" name="농협 하나가득 찰진미역, 150g" price="6800"/>
+	<Field id="108" category="건오징어/진미/어포/육포" name="목우촌 쇠고기육포, 50g x 2개입" price="10000"/>
+	<Field id="109" category="건오징어/진미/어포/육포" name="농협 하나가득 맥반석 오징어, 130g" price="9710"/>
+	<Field id="110" category="건오징어/진미/어포/육포" name="하나가득 디포리, 200g" price="4980"/>
+	<Field id="111" category="건오징어/진미/어포/육포" name="하나가득 백진미 오징어, 230g" price="9070"/>
+	<Field id="112" category="건오징어/진미/어포/육포" name="금영식품 맥반석 쥐포구이채, 120g x 2봉" price="11100"/>
+	<Field id="113" category="건오징어/진미/어포/육포" name="광해물산 꽃백자다리, 1개" price="6980"/>
+	<Field id="114" category="건오징어/진미/어포/육포" name="머거본 쇠고기 육포, 50g" price="3250"/>
+	<Field id="115" category="건오징어/진미/어포/육포" name="사조대림 365.24 오리지널 육포, 30g x 3" price="5980"/>
+	<Field id="116" category="건오징어/진미/어포/육포" name="광해물산 가오리 대(大), 1마리" price="31500"/>
+	<Field id="117" category="건오징어/진미/어포/육포" name="사조대림 365.24 더 매운 육포, 70g" price="5980"/>
+	<Field id="118" category="건오징어/진미/어포/육포" name="오천산업 올리브유로구운 참쥐포채, 200g" price="8400"/>
+	<Field id="119" category="건오징어/진미/어포/육포" name="울릉농협 울릉도 참징어(대), 10미(750g)" price="98200"/>
+	<Field id="120" category="건오징어/진미/어포/육포" name="사조대림 365.24 더 매운 육포, 30g x 3" price="7980"/>
+	<Field id="121" category="건오징어/진미/어포/육포" name="명성식품 한입 빠삭포, 110g x 2봉" price="8870"/>
+	<Field id="122" category="건오징어/진미/어포/육포" name="목우촌 쇠고기육포, 150g(50g x 3개입)" price="14850"/>
+	<Field id="123" category="건오징어/진미/어포/육포" name="실버애로우홀딩스 허니버터맛 오징어, 35g" price="2500"/>
+	<Field id="124" category="건오징어/진미/어포/육포" name="머거본 꾸이한통, 290g" price="8850"/>
+	<Field id="125" category="건오징어/진미/어포/육포" name="샘표 질러 직화 육포, 70g" price="6460"/>
+	<Field id="126" category="건오징어/진미/어포/육포" name="도톰한 아귀살포구이, 100g x 2개" price="12600"/>
+	<Field id="127" category="건오징어/진미/어포/육포" name="서광농협 자연맛본 황태스낵 오리지널맛, 20g" price="2850"/>
+	<Field id="128" category="건오징어/진미/어포/육포" name="머거본 빼빼한통 오리지널, 120g" price="4900"/>
+	<Field id="129" category="건오징어/진미/어포/육포" name="실버애로우홀딩스 땅콩버터맛 오징어, 35g" price="2500"/>
+	<Field id="130" category="건오징어/진미/어포/육포" name="청정원 사브작 쫄깃육포바이트 달콤숙성 , 70g" price="6900"/>
+	<Field id="131" category="건오징어/진미/어포/육포" name="광해물산 늘해랑 두절노가리 , 200g" price="8200"/>
+	<Field id="132" category="건오징어/진미/어포/육포" name="머거본 쇠고기육포, 25g x 4개" price="7250"/>
+	<Field id="133" category="건오징어/진미/어포/육포" name="사조대림 365.24 오리지널 육포, 70g" price="5980"/>
+	<Field id="134" category="건오징어/진미/어포/육포" name="샘표 질러 크레이지핫 육포, 70g" price="6390"/>
+	<Field id="135" category="건오징어/진미/어포/육포" name="오천산업 왕꼬마쥐포, 120g" price="5000"/>
+	<Field id="136" category="건오징어/진미/어포/육포" name="머거본 쇠고기육포 순한맛, 45g" price="3980"/>
+	<Field id="137" category="건오징어/진미/어포/육포" name="울릉농협 굽지않고 먹는 오징어누드, 3미(280g)" price="22540"/>
+	<Field id="138" category="건오징어/진미/어포/육포" name="샘표 질러 부드러운 육포, 30g" price="2850"/>
+	<Field id="139" category="건오징어/진미/어포/육포" name="머거본 빼빼한통 매운맛, 120g" price="4900"/>
+	<Field id="140" category="건오징어/진미/어포/육포" name="농협 하나가득 오징어는 땅콩을 좋아해 , 130g" price="7300"/>
+	<Field id="141" category="건오징어/진미/어포/육포" name="동원 상상 육포 , 80g" price="5900"/>
+	<Field id="142" category="건오징어/진미/어포/육포" name="서광농협 자연맛본 황태스낵 버터맛, 20g" price="2850"/>
+	<Field id="143" category="건오징어/진미/어포/육포" name="서광농협 자연맛본 황태스낵 매운맛, 20g" price="2850"/>
+	<Field id="144" category="건오징어/진미/어포/육포" name="명성식품 깨 빠삭포, 110g x 2봉" price="8730"/>
+	<Field id="145" category="건오징어/진미/어포/육포" name="농협 하나가득 불고기맛 오징어, 90g" price="6000"/>
+	<Field id="146" category="건오징어/진미/어포/육포" name="농협 하나가득 해오징어 버터구이, 90g" price="8400"/>
+	<Field id="147" category="건오징어/진미/어포/육포" name="북강릉농협 조미찢은 오징어, 120g" price="16300"/>
+	<Field id="148" category="건오징어/진미/어포/육포" name="샘표 질러 부드러운 육포, 70g" price="6390"/>
+	<Field id="149" category="건오징어/진미/어포/육포" name="농협 하나가득 마른 명태채(가는채), 150g" price="11500"/>
+	<Field id="150" category="건오징어/진미/어포/육포" name="샘표 질러 부드러운 육포, 30g x 3개" price="6590"/>
+	<Field id="151" category="건오징어/진미/어포/육포" name="동원 상상육포 스리라차맛, 40g" price="3480"/>
+	<Field id="152" category="건오징어/진미/어포/육포" name="사조 365.24 오리지널 구운육포, 30g x 3개입" price="7980"/>
+	<Field id="153" category="건오징어/진미/어포/육포" name="청정원 사브작 쫄깃육포바이트 오리지널 , 70g" price="6900"/>
+	<Field id="154" category="건오징어/진미/어포/육포" name="샘표 질러 갈릭 바베큐 육포, 70g" price="6390"/>
+	<Field id="155" category="건오징어/진미/어포/육포" name="울릉농협 채낚기 당일 오징어(특), 950g(10미)" price="129000"/>
+	<Field id="156" category="건오징어/진미/어포/육포" name="울릉농협 채낚기 당일 오징어(대), 350g(5미)" price="43350"/>
+	<Field id="157" category="건오징어/진미/어포/육포" name="대양식품 구운 쥐포구이채, 60g" price="1880"/>
+	<Field id="158" category="건오징어/진미/어포/육포" name="사조 365.24 오리지널 구운육포, 70g" price="5980"/>
+	<Field id="159" category="건오징어/진미/어포/육포" name="동원 상상육포 정통바베큐맛, 40g" price="3480"/>
+	<Field id="160" category="건오징어/진미/어포/육포" name="동원 상상 육포 데리야끼맛, 40g" price="3480"/>
+	<Field id="161" category="건오징어/진미/어포/육포" name="롯데 먹태, 180g" price="13230"/>
+	<Field id="162" category="건오징어/진미/어포/육포" name="사조대림 365.24 숯불바베큐 육포, 30g x 3" price="7980"/>
+	<Field id="163" category="건오징어/진미/어포/육포" name="북강릉농협 참진미 오징어, 120g" price="15750"/>
+	<Field id="164" category="건오징어/진미/어포/육포" name="동원 상상 비프 &amp; 치즈 , 80g" price="5900"/>
+	<Field id="165" category="건오징어/진미/어포/육포" name="실버애로우홀딩스 치즈맛 오징어, 35g" price="2500"/>
+	<Field id="166" category="건오징어/진미/어포/육포" name="금영식품 특대 쥐치포, 180g" price="7300"/>
+	<Field id="167" category="건오징어/진미/어포/육포" name="농협 하나가득 핫다리, 100g" price="7000"/>
+	<Field id="168" category="기타 해산물" name="영산포 홍어회 날개살, 200g" price="12500"/>
+	<Field id="169" category="기타 해산물" name="알찬해 해물모듬, 450g" price="5790"/>
+	<Field id="170" category="기타 해산물" name="알찬해 냉동 날치알 레드, 150g" price="7480"/>
+	<Field id="171" category="기타 해산물" name="씨글로벌 바다마을 3색날치알, 180g(30g x 6개입..." price="9500"/>
+	<Field id="172" category="기타 해산물" name="영산포 홍어회 모듬, 200g" price="11200"/>
+	<Field id="173" category="기타 해산물" name="한길에스디 날치알 , 150g" price="7480"/>
+	<Field id="174" category="기타 해산물" name="미소그린 전복의 신(辛), 280g" price="14000"/>
+	<Field id="175" category="기타 해산물" name="미소그린 세마리 전복장, 300g" price="20000"/>
+	<Field id="176" category="기타 해산물" name="미소그린 두마리 전복장, 280g" price="18000"/>
+	<Field id="177" category="기타 해산물" name="오천농협 멸치액젓 , 4L(5kg)" price="15000"/>
+	<Field id="178" category="기타 해산물" name="씨글로벌 바다마을 날치알 골드 , 180g(30g x 6..." price="9500"/>
+	<Field id="179" category="기타 해산물" name="현이푸드빌 웰푸드 알탕, 1kg" price="11500"/>
+	<Field id="180" category="기타 해산물" name="오천농협 명태초무침, 250g" price="7900"/>
+	<Field id="181" category="기타 해산물" name="미소그린 꼬마 전복장, 280g" price="12000"/>
+	<Field id="182" category="기타 해산물" name="웰푸드 냉동 해물탕, 1kg" price="11500"/>
+</Items>

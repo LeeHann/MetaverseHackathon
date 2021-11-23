@@ -75,10 +75,9 @@ public class XMLParser: MonoBehaviour
                         int id = int.Parse(child.Attributes.GetNamedItem("id").Value);
                         string category = child.Attributes.GetNamedItem("category").Value;
                         string name = child.Attributes.GetNamedItem("name").Value;
-                        int price = int.Parse(child.Attributes.GetNamedItem("id").Value);
-                        string imgPath = child.Attributes.GetNamedItem("imgPath").Value;
+                        int price = int.Parse(child.Attributes.GetNamedItem("price").Value);
                         
-                        ItemInfo item = new ItemInfo(id, category, name, price, imgPath);
+                        ItemInfo item = new ItemInfo(id, category, name, price);
                         // 다 만들어졌다면 이제 매니저에 넣어줍시다.
                         IM.AddItem(item);
                     }

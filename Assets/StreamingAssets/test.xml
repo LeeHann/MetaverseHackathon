@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Items>
-	<Field id="1" category="사과/배" name="blueberry" price="1000" imgPath="Items/01_blueberry"/>
+	<Field id="1" category="사과/배" name="blueberry" price="1000"/>
 </Items>

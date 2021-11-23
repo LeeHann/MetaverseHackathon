@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+	<Field id="1" category="중량별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 20kg" price="69800"/>
+	<Field id="2" category="중량별 쌀" name="곡성 석곡농협 백세미쌀(골든퀸3호), 4kg" price="25900"/>
+	<Field id="3" category="중량별 쌀" name="만세보령농협 삼광쌀, 2021년산, 20kg" price="68500"/>
+	<Field id="4" category="중량별 쌀" name="농협양곡 생거진천쌀(추청), (2021년산), 20kg" price="70600"/>
+	<Field id="5" category="중량별 쌀" name="농협 임금님표 이천쌀(해들), 2021년산, 20kg" price="83000"/>
+	<Field id="6" category="중량별 쌀" name="서안동농협 안동미인쌀(일품), 2021년산, 20kg" price="62500"/>
+	<Field id="7" category="중량별 쌀" name="안중농협 슈퍼오닝 쌀(고시히카리),2021년산, 4k..." price="18800"/>
+	<Field id="8" category="중량별 쌀" name="농협 임금님표 이천쌀 해들미, 2021년산, 4kg" price="23500"/>
+	<Field id="9" category="중량별 쌀" name="서안동농협 안동미인쌀(일품), 2021년산, 10kg" price="33200"/>
+	<Field id="10" category="중량별 쌀" name="★햅쌀★ 철원 오대쌀, 2021년산, 10kg" price="44500"/>
+	<Field id="11" category="중량별 쌀" name="서안성농협 안성 놀부쌀(추청), 2021년산, 20kg" price="66000"/>
+	<Field id="12" category="중량별 쌀" name="평택 안중농협 슈퍼오닝쌀(고시히카리), 2021년..." price="77000"/>
+	<Field id="13" category="중량별 쌀" name="★햅쌀★ 철원 오대쌀, 2021년산, 20kg" price="85500"/>
+	<Field id="14" category="중량별 쌀" name="농협 만세보령 삼광쌀, 2021년산, 10kg" price="35600"/>
+	<Field id="15" category="중량별 쌀" name="서안성농협 안성 놀부쌀(추청), 2021년산, 10kg" price="34400"/>
+	<Field id="16" category="중량별 쌀" name="★햅쌀★ 이천농협 임금님표 이천쌀(해들) / 202..." price="42000"/>
+	<Field id="17" category="중량별 쌀" name="농협 용인 백옥 참드림쌀, 2021년산, 20kg" price="73500"/>
+	<Field id="18" category="중량별 쌀" name="농협 강화섬쌀(삼광), 2021년산, 10kg" price="35500"/>
+	<Field id="19" category="중량별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 10kg" price="35800"/>
+	<Field id="20" category="중량별 쌀" name="농협 여주 대왕님표 여주쌀 단아미,2021년산, 2k..." price="11500"/>
+	<Field id="21" category="중량별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 5kg" price="22800"/>
+	<Field id="22" category="중량별 쌀" name="양평농협 맑은고을 추청쌀, 2021년산, 20kg" price="72900"/>
+	<Field id="23" category="중량별 쌀" name="보은농협 정이품쌀(삼광), 2021년산, 20kg" price="63900"/>
+	<Field id="24" category="중량별 쌀" name="신김포농협 고시히카리쌀, 2021년산, 4kg" price="21000"/>
+	<Field id="25" category="중량별 쌀" name="농협 하나가득쌀(혼합), 2021년산, 10kg" price="30000"/>
+	<Field id="26" category="중량별 쌀" name="농협 여주 대왕님표 진상쌀, 2021년산, 4kg" price="22000"/>
+	<Field id="27" category="중량별 쌀" name="덕산농협 영양눈쌀(삼광), 4kg" price="18500"/>
+	<Field id="28" category="중량별 쌀" name="곡성 석곡농협 백세미(골든퀸3호), 2021년산, 10..." price="58400"/>
+	<Field id="29" category="중량별 쌀" name="철원 오대쌀(철원농협), 2021년산, 2kg" price="12000"/>
+	<Field id="30" category="중량별 쌀" name="철원농협 철원오대쌀, 2021년산, 4kg" price="21000"/>
+	<Field id="31" category="중량별 쌀" name="덕산농협 친환경 쌀눈달린 영양눈쌀(삼광), 2021..." price="44900"/>
+	<Field id="32" category="중량별 쌀" name="한반도농협 유기농 백미(오대), 10kg" price="57900"/>
+	<Field id="33" category="중량별 쌀" name="서안성농협 안성 놀부쌀(고시히카리), 2021년산,..." price="41800"/>
+	<Field id="34" category="중량별 쌀" name="보은농협 정이품쌀(삼광), 2021년산, 10kg" price="33300"/>
+	<Field id="35" category="중량별 쌀" name="농협 용인 백옥 참드림쌀, 2021년산, 10kg" price="38500"/>
+	<Field id="36" category="품종별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 20kg" price="69800"/>
+	<Field id="37" category="품종별 쌀" name="곡성 석곡농협 백세미쌀(골든퀸3호), 4kg" price="25900"/>
+	<Field id="38" category="품종별 쌀" name="만세보령농협 삼광쌀, 2021년산, 20kg" price="68500"/>
+	<Field id="39" category="품종별 쌀" name="농협양곡 생거진천쌀(추청), (2021년산), 20kg" price="70600"/>
+	<Field id="40" category="품종별 쌀" name="농협 임금님표 이천쌀(해들), 2021년산, 20kg" price="83000"/>
+	<Field id="41" category="품종별 쌀" name="서안동농협 안동미인쌀(일품), 2021년산, 20kg" price="62500"/>
+	<Field id="42" category="품종별 쌀" name="안중농협 슈퍼오닝 쌀(고시히카리),2021년산, 4k..." price="18800"/>
+	<Field id="43" category="품종별 쌀" name="농협 임금님표 이천쌀 해들미, 2021년산, 4kg" price="23500"/>
+	<Field id="44" category="품종별 쌀" name="서안동농협 안동미인쌀(일품), 2021년산, 10kg" price="33200"/>
+	<Field id="45" category="품종별 쌀" name="★햅쌀★ 철원 오대쌀, 2021년산, 10kg" price="44500"/>
+	<Field id="46" category="품종별 쌀" name="서안성농협 안성 놀부쌀(추청), 2021년산, 20kg" price="66000"/>
+	<Field id="47" category="품종별 쌀" name="평택 안중농협 슈퍼오닝쌀(고시히카리), 2021년..." price="77000"/>
+	<Field id="48" category="품종별 쌀" name="★햅쌀★ 철원 오대쌀, 2021년산, 20kg" price="85500"/>
+	<Field id="49" category="품종별 쌀" name="농협 만세보령 삼광쌀, 2021년산, 10kg" price="35600"/>
+	<Field id="50" category="품종별 쌀" name="서안성농협 안성 놀부쌀(추청), 2021년산, 10kg" price="34400"/>
+	<Field id="51" category="품종별 쌀" name="★햅쌀★ 이천농협 임금님표 이천쌀(해들) / 202..." price="42000"/>
+	<Field id="52" category="품종별 쌀" name="농협 용인 백옥 참드림쌀, 2021년산, 20kg" price="73500"/>
+	<Field id="53" category="품종별 쌀" name="농협 강화섬쌀(삼광), 2021년산, 10kg" price="35500"/>
+	<Field id="54" category="품종별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 10kg" price="35800"/>
+	<Field id="55" category="품종별 쌀" name="농협 여주 대왕님표 여주쌀 단아미,2021년산, 2k..." price="11500"/>
+	<Field id="56" category="품종별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 5kg" price="22800"/>
+	<Field id="57" category="품종별 쌀" name="양평농협 맑은고을 추청쌀, 2021년산, 20kg" price="72900"/>
+	<Field id="58" category="품종별 쌀" name="보은농협 정이품쌀(삼광), 2021년산, 20kg" price="63900"/>
+	<Field id="59" category="품종별 쌀" name="신김포농협 고시히카리쌀, 2021년산, 4kg" price="21000"/>
+	<Field id="60" category="품종별 쌀" name="농협 하나가득쌀(혼합), 2021년산, 10kg" price="30000"/>
+	<Field id="61" category="품종별 쌀" name="농협 여주 대왕님표 진상쌀, 2021년산, 4kg" price="22000"/>
+	<Field id="62" category="품종별 쌀" name="덕산농협 영양눈쌀(삼광), 4kg" price="18500"/>
+	<Field id="63" category="품종별 쌀" name="곡성 석곡농협 백세미(골든퀸3호), 2021년산, 10..." price="58400"/>
+	<Field id="64" category="품종별 쌀" name="철원 오대쌀(철원농협), 2021년산, 2kg" price="12000"/>
+	<Field id="65" category="품종별 쌀" name="철원농협 철원오대쌀, 2021년산, 4kg" price="21000"/>
+	<Field id="66" category="품종별 쌀" name="덕산농협 친환경 쌀눈달린 영양눈쌀(삼광), 2021..." price="44900"/>
+	<Field id="67" category="품종별 쌀" name="한반도농협 유기농 백미(오대), 10kg" price="57900"/>
+	<Field id="68" category="품종별 쌀" name="서안성농협 안성 놀부쌀(고시히카리), 2021년산,..." price="41800"/>
+	<Field id="69" category="품종별 쌀" name="보은농협 정이품쌀(삼광), 2021년산, 10kg" price="33300"/>
+	<Field id="70" category="품종별 쌀" name="농협 용인 백옥 참드림쌀, 2021년산, 10kg" price="38500"/>
+	<Field id="71" category="지역별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 20kg" price="69800"/>
+	<Field id="72" category="지역별 쌀" name="곡성 석곡농협 백세미쌀(골든퀸3호), 4kg" price="25900"/>
+	<Field id="73" category="지역별 쌀" name="만세보령농협 삼광쌀, 2021년산, 20kg" price="68500"/>
+	<Field id="74" category="지역별 쌀" name="농협양곡 생거진천쌀(추청), (2021년산), 20kg" price="70600"/>
+	<Field id="75" category="지역별 쌀" name="농협 임금님표 이천쌀(해들), 2021년산, 20kg" price="83000"/>
+	<Field id="76" category="지역별 쌀" name="서안동농협 안동미인쌀(일품), 2021년산, 20kg" price="62500"/>
+	<Field id="77" category="지역별 쌀" name="안중농협 슈퍼오닝 쌀(고시히카리),2021년산, 4k..." price="18800"/>
+	<Field id="78" category="지역별 쌀" name="농협 임금님표 이천쌀 해들미, 2021년산, 4kg" price="23500"/>
+	<Field id="79" category="지역별 쌀" name="서안동농협 안동미인쌀(일품), 2021년산, 10kg" price="33200"/>
+	<Field id="80" category="지역별 쌀" name="★햅쌀★ 철원 오대쌀, 2021년산, 10kg" price="44500"/>
+	<Field id="81" category="지역별 쌀" name="서안성농협 안성 놀부쌀(추청), 2021년산, 20kg" price="66000"/>
+	<Field id="82" category="지역별 쌀" name="평택 안중농협 슈퍼오닝쌀(고시히카리), 2021년..." price="77000"/>
+	<Field id="83" category="지역별 쌀" name="★햅쌀★ 철원 오대쌀, 2021년산, 20kg" price="85500"/>
+	<Field id="84" category="지역별 쌀" name="농협 만세보령 삼광쌀, 2021년산, 10kg" price="35600"/>
+	<Field id="85" category="지역별 쌀" name="서안성농협 안성 놀부쌀(추청), 2021년산, 10kg" price="34400"/>
+	<Field id="86" category="지역별 쌀" name="★햅쌀★ 이천농협 임금님표 이천쌀(해들) / 202..." price="42000"/>
+	<Field id="87" category="지역별 쌀" name="농협 용인 백옥 참드림쌀, 2021년산, 20kg" price="73500"/>
+	<Field id="88" category="지역별 쌀" name="농협 강화섬쌀(삼광), 2021년산, 10kg" price="35500"/>
+	<Field id="89" category="지역별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 10kg" price="35800"/>
+	<Field id="90" category="지역별 쌀" name="농협 여주 대왕님표 여주쌀 단아미,2021년산, 2k..." price="11500"/>
+	<Field id="91" category="지역별 쌀" name="둔포농협 아산 맑은쌀(삼광), 2021년산, 5kg" price="22800"/>
+	<Field id="92" category="지역별 쌀" name="양평농협 맑은고을 추청쌀, 2021년산, 20kg" price="72900"/>
+	<Field id="93" category="지역별 쌀" name="보은농협 정이품쌀(삼광), 2021년산, 20kg" price="63900"/>
+	<Field id="94" category="지역별 쌀" name="신김포농협 고시히카리쌀, 2021년산, 4kg" price="21000"/>
+	<Field id="95" category="지역별 쌀" name="농협 하나가득쌀(혼합), 2021년산, 10kg" price="30000"/>
+	<Field id="96" category="지역별 쌀" name="농협 여주 대왕님표 진상쌀, 2021년산, 4kg" price="22000"/>
+	<Field id="97" category="지역별 쌀" name="덕산농협 영양눈쌀(삼광), 4kg" price="18500"/>
+	<Field id="98" category="지역별 쌀" name="곡성 석곡농협 백세미(골든퀸3호), 2021년산, 10..." price="58400"/>
+	<Field id="99" category="지역별 쌀" name="철원 오대쌀(철원농협), 2021년산, 2kg" price="12000"/>
+	<Field id="100" category="지역별 쌀" name="철원농협 철원오대쌀, 2021년산, 4kg" price="21000"/>
+	<Field id="101" category="지역별 쌀" name="덕산농협 친환경 쌀눈달린 영양눈쌀(삼광), 2021..." price="44900"/>
+	<Field id="102" category="지역별 쌀" name="한반도농협 유기농 백미(오대), 10kg" price="57900"/>
+	<Field id="103" category="지역별 쌀" name="서안성농협 안성 놀부쌀(고시히카리), 2021년산,..." price="41800"/>
+	<Field id="104" category="지역별 쌀" name="보은농협 정이품쌀(삼광), 2021년산, 10kg" price="33300"/>
+	<Field id="105" category="지역별 쌀" name="농협 용인 백옥 참드림쌀, 2021년산, 10kg" price="38500"/>
+	<Field id="106" category="친환경 쌀" name="한반도농협 유기농 백미(오대), 10kg" price="57900"/>
+	<Field id="107" category="잡곡" name="진안농협 청보리쌀, 1kg" price="5100"/>
+	<Field id="108" category="잡곡" name="기린농협 적두, 2020년산, 1kg" price="19100"/>
+	<Field id="109" category="잡곡" name="신림농협 적두, 2020년산, 1kg" price="24000"/>
+	<Field id="110" category="잡곡" name="보은농협 현미(혼합), 2021년산, 1kg" price="5000"/>
+	<Field id="111" category="잡곡" name="신림농협 찰옥수수쌀, 2020년산, 1kg" price="10100"/>
+	<Field id="112" category="잡곡" name="이천율면농협 서리태, 2020년산, 500g" price="10300"/>
+	<Field id="113" category="잡곡" name="하조대농협 깐녹두, 2021년산, 1kg" price="39980"/>
+	<Field id="114" category="잡곡" name="예천농협 약콩, 2020년산, 1kg" price="14500"/>
+	<Field id="115" category="잡곡" name="양양농협 강낭콩(양대), 2020년산, 1kg" price="10100"/>
+	<Field id="116" category="잡곡" name="양양농협 송이마을 서리태 , 1kg" price="25000"/>
+	<Field id="117" category="잡곡" name="원삼농협 찰현미, 2020년산, 4kg" price="21000"/>
+	<Field id="118" category="잡곡" name="용두농협 일반현미, 2kg" price="9800"/>
+	<Field id="119" category="잡곡" name="장계농협 장계가는날 백태, 2020년산, 1kg" price="12500"/>
+	<Field id="120" category="잡곡" name="부적농협 찰보리쌀, 2020년산, 1kg" price="3500"/>
+	<Field id="121" category="잡곡" name="부적농협 찰보리쌀, 2020년산, 3kg" price="10400"/>
+	<Field id="122" category="잡곡" name="간동농협 혼합 15곡, 2020년산, 4kg" price="29500"/>
+	<Field id="123" category="잡곡" name="군자농협 불릴필요없는 찰현미, 2020년산, 4kg" price="22000"/>
+	<Field id="124" category="잡곡" name="하조대농협 현미쌀, 2020년산, 2kg" price="10100"/>
+	<Field id="125" category="잡곡" name="다사농협 현미(즉석도정), 2021년산 , 10kg" price="39900"/>
+	<Field id="126" category="잡곡" name="농협 한토래 동진찹쌀, 4kg" price="15900"/>
+	<Field id="127" category="잡곡" name="원삼농협 찰보리쌀, 2020년산, 2kg" price="5300"/>
+	<Field id="128" category="잡곡" name="하조대농협 검은보리, 2020년산 , 1kg" price="4100"/>
+	<Field id="129" category="잡곡" name="이천 율면농협 시골밥상 백태, 2020년산, 500g" price="5300"/>
+	<Field id="130" category="잡곡" name="장계농협 장계가는날 발아귀리, 2021년산, 2kg" price="9500"/>
+	<Field id="131" category="잡곡" name="보성농협 초록잎새 찰현미(혼합), 1kg" price="5900"/>
+	<Field id="132" category="잡곡" name="청운농협 들깨, 2020년산, 500g" price="13200"/>
+	<Field id="133" category="잡곡" name="군자농협 적두, 2020년산, 1kg" price="19400"/>
+	<Field id="134" category="잡곡" name="신림농협 찰옥수수알, 2020년산, 1kg" price="9800"/>
+	<Field id="135" category="잡곡" name="진암농협 연 검정약콩, 2020년산, 500g" price="8000"/>
+	<Field id="136" category="잡곡" name="산척농협 서리태, 2020년산, 1kg" price="22400"/>
+	<Field id="137" category="잡곡" name="남보은농협 적두, 2020년산, 1kg" price="20100"/>
+	<Field id="138" category="잡곡" name="군자농협 이코에코 유기농 서리태, 2020년산, 1k..." price="30000"/>
+	<Field id="139" category="잡곡" name="연무농협 율무, 2020년산, 1kg" price="27100"/>
+	<Field id="140" category="잡곡" name="산척농협 적두, 2020년산, 500g" price="12100"/>
+	<Field id="141" category="잡곡" name="용두농협 찰현미(혼합), 2020년산, 2kg" price="11900"/>
+	<Field id="142" category="잡곡" name="양양농협 누룽지맛 찰현미, 2020년산, 4kg" price="31400"/>
+	<Field id="143" category="잡곡" name="하조대농협 강낭콩, 2021년산, 1kg" price="17000"/>
+	<Field id="144" category="잡곡" name="장계농협 율무쌀, 1kg" price="28000"/>
+	<Field id="145" category="잡곡" name="금촌농협 율무, 2020년산, 500g" price="14500"/>
+	<Field id="146" category="잡곡" name="서충주농협 서리태, 2020년산, 2kg" price="34900"/>
+	<Field id="147" category="잡곡" name="원삼농협 깐녹두, 2021년산, 1kg" price="42500"/>
+	<Field id="148" category="잡곡" name="수승대농협 적두, 2020년산, 1kg" price="23000"/>
+	<Field id="149" category="잡곡" name="수승대농협 거창 혼합 12곡, 2020년산, 2kg" price="19800"/>
+	<Field id="150" category="잡곡" name="산척농협 찰현미(혼합), 2020년산, 4kg" price="23900"/>
+	<Field id="151" category="잡곡" name="군자농협 찰수수쌀, 2020년산, 1kg" price="17000"/>
+	<Field id="152" category="잡곡" name="동송농협 두루웰 누룽지향 찰쌀(고향쌀), 2020년..." price="51000"/>
+	<Field id="153" category="잡곡" name="부적농협 발아현미, 2020년산, 2kg" price="16400"/>
+	<Field id="154" category="잡곡" name="간동농협 적두, 2020년산, 1kg" price="24600"/>
+	<Field id="155" category="잡곡" name="진안농협 녹두, 2021년산, 500g" price="17500"/>
+	<Field id="156" category="잡곡" name="농협 한토래 찹쌀, 2020년산, 10kg" price="42000"/>
+	<Field id="157" category="잡곡" name="수승대농협 찰홍미(찰현미), 2020년산, 1kg" price="8700"/>
+	<Field id="158" category="잡곡" name="수승대농협 찹쌀, 2020년산 , 2kg" price="12700"/>
+	<Field id="159" category="잡곡" name="진안농협 홍미, 2020년산, 1kg" price="7900"/>
+	<Field id="160" category="잡곡" name="신림농협 약콩, 2021년산 , 1kg" price="14100"/>
+	<Field id="161" category="잡곡" name="원삼농협 흑임자, 2020년산, 500g" price="28900"/>
+	<Field id="162" category="잡곡" name="원삼농협 적두, 2020년산, 1kg" price="24100"/>
+	<Field id="163" category="잡곡" name="예천농협 깐녹두, 2021년산, 1kg" price="49300"/>
+	<Field id="164" category="잡곡" name="부적농협 서리태, 2020년산, 1kg" price="22000"/>
+	<Field id="165" category="잡곡" name="정남농협 건강잡곡 약콩, 500g" price="8300"/>
+	<Field id="166" category="잡곡" name="진안농협 오색현미, 2020년산 , 2kg" price="16000"/>
+	<Field id="167" category="친환경 잡곡" name="한반도농협 친환경 찰수수쌀, 2020년산, 500g" price="12000"/>
+	<Field id="168" category="친환경 잡곡" name="고삼농협 유기농 찰현미, 2020년산, 4kg" price="35400"/>
+	<Field id="169" category="친환경 잡곡" name="군자농협 쥐눈이콩, 2020년산, 1kg" price="15600"/>
+	<Field id="170" category="친환경 잡곡" name="한반도농협 무농약 찰현미, 2020년산, 4kg" price="28600"/>
+	<Field id="171" category="친환경 잡곡" name="원삼농협 무농약 찰수수, 2020년산, 800g" price="18700"/>
+	<Field id="172" category="친환경 잡곡" name="원삼농협 유기농 찹쌀, 2020년산, 4kg" price="31500"/>
+	<Field id="173" category="즉석 도정미" name="다사농협 현미(즉석도정), 2021년산 , 10kg" price="39900"/>
+	<Field id="174" category="즉석 도정미" name="다사농협 현미(즉석도정), 2021년산 , 10kg" price="51000"/>
+</Items>

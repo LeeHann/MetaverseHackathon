@@ -159,7 +159,7 @@ MonoBehaviour:
   PW: 
   InputID: {fileID: 1373918093}
   InputPW: {fileID: 955536624}
-  SceneMode: 1
+  SceneMode: 0
   SceneName: UIPrintTest
 --- !u!114 &14909970
 MonoBehaviour:
@@ -1401,7 +1401,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1982314694
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1414,7 +1414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c139ea3d3df0a42c693e57bafbfc2fc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_File: test.xml
+  m_File: 
 --- !u!4 &1982314695
 Transform:
   m_ObjectHideFlags: 0
@@ -1441,7 +1441,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68ec05bb2b05fdf42a791d224c203475, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tableName: test
+  tableName: 
 --- !u!1 &2011906083
 GameObject:
   m_ObjectHideFlags: 0

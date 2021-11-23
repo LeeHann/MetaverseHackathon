@@ -37,12 +37,11 @@ public class ItemInfo
    public int price;    // 상품 가격
    public string imgPath;
    
-   public ItemInfo(int id, string category, string name, int price, string imgPath)
+   public ItemInfo(int id, string category, string name, int price)
    {
       this.id = id;
       this.category = category;
       this.name = name;
       this.price = price;
-      this.imgPath = imgPath;
    }
 }
