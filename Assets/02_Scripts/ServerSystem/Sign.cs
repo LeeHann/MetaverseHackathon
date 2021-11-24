@@ -14,6 +14,8 @@ public class Sign : MonoBehaviour
     public bool SceneMode;
     public string SceneName;
 
+    public bool TestMode;
+
     void Start()
     {
         var bro = Backend.Initialize(true);
@@ -27,6 +29,15 @@ public class Sign : MonoBehaviour
         {
             // 초기화 실패 시 로직
             Debug.LogError("초기화 실패!");
+        }
+        
+        if (TestMode == true)
+        {
+            bro = Backend.BMember.CustomLogin( "hhhh", "0000" );
+            if(bro.IsSuccess())
+            {
+                Debug.Log("로그인에 성공했습니다");
+            } 
         }
     }
 

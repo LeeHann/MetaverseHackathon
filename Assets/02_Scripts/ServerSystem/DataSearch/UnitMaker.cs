@@ -29,15 +29,40 @@ public class UnitMaker : MonoBehaviour
     public void OnClickCategory(string category)
     {
         // section 버튼 중 하나 클릭 - ex) 사과/배
+        Debug.Log("Clicked");
+
         Where where = new Where();
         where.Equal("category", category);
+        Debug.Log("where : " + category);
 
+        var bro = Backend.GameData.Get( /*tableName*/"fruit", where, 100);
+        if (bro.IsSuccess())
+        {
+            JsonData jsonData = bro.GetReturnValuetoJSON()["rows"];
+            Debug.Log(jsonData);
+            // int id = (int)jsonData["id"][0];
+            // string cate = jsonData["category"][0].ToString();
+            // string name = jsonData["name"][0].ToString();
+            // int price = (int)jsonData["price"][0];
+
+            // Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price);
+        }
+        else Debug.LogError(bro.GetErrorCode() + " " + bro.GetMessage());
+/*
         Backend.GameData.Get( tableName, where, 100, ( callback ) => 
         {
             if (callback.IsSuccess())
             {
-                JsonData json = callback.GetReturnValuetoJSON()["rows"][0];
+                JsonData jsonData = callback.GetReturnValuetoJSON()["rows"][0];
+                int id = (int)jsonData["id"][0];
+                string category = jsonData["category"][0].ToString();
+                string name = jsonData["name"][0].ToString();
+                int price = (int)jsonData["price"][0];
+
+                Debug.Log("id : " + id + " category : " + category + " name : " + name + " price : " + price);
             }
+            else Debug.LogError(callback.GetErrorCode());
         });
+*/
     }
 }

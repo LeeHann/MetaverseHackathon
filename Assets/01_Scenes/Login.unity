@@ -160,7 +160,8 @@ MonoBehaviour:
   InputID: {fileID: 1373918093}
   InputPW: {fileID: 955536624}
   SceneMode: 1
-  SceneName: UIPrintTest
+  SceneName: Main
+  TestMode: 0
 --- !u!114 &14909970
 MonoBehaviour:
   m_ObjectHideFlags: 0
