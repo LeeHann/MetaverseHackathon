@@ -5,13 +5,13 @@ using UnityEngine.UI;
 
 public class UnitButton : MonoBehaviour
 {
-    public Button button;
+    Button button;
 
-    public void SetButton(string buttonName, List<string> parameters, System.Action callback)
+    public void SetButton(System.Action<string> callback, string category)
     {
-        button.GetComponentInChildren<Text>().text = buttonName;
+        button = GetComponent<Button>();
+        button.GetComponentInChildren<Text>().text = category;
         button.onClick.RemoveAllListeners();
-        button.onClick.AddListener(() => callback());
-
+        button.onClick.AddListener(() => callback(category));
     }
 }
