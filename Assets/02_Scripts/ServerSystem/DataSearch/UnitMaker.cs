@@ -38,14 +38,18 @@ public class UnitMaker : MonoBehaviour
         var bro = Backend.GameData.Get( /*tableName*/"fruit", where, 100);
         if (bro.IsSuccess())
         {
-            JsonData jsonData = bro.GetReturnValuetoJSON()["rows"];
-            Debug.Log(jsonData);
-            // int id = (int)jsonData["id"][0];
-            // string cate = jsonData["category"][0].ToString();
-            // string name = jsonData["name"][0].ToString();
-            // int price = (int)jsonData["price"][0];
+            // for (int i = 0; i<bro.GetReturnValuetoJSON()["rows"].Count; i++)
+            // {
+                JsonData jsonData = bro.GetReturnValuetoJSON()["rows"][0];
+                Debug.Log(jsonData.ToJson());
+                string id = jsonData["id"][0].ToString();
+                string cate = jsonData["category"][0].ToString();
+                string name = jsonData["name"][0].ToString();
+                string price = jsonData["price"][0].ToString();
 
-            // Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price);
+                Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price);
+                // Debug.Log(" category : " + cate + " name : " + name); 
+            // }
         }
         else Debug.LogError(bro.GetErrorCode() + " " + bro.GetMessage());
 /*
