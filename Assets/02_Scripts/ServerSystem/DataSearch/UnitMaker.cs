@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -30,43 +31,47 @@ public class UnitMaker : MonoBehaviour
     {
         // section 버튼 중 하나 클릭 - ex) 사과/배
         Debug.Log("Clicked");
+        // category = category.Replace("//", "/");
 
         Where where = new Where();
         where.Equal("category", category);
         Debug.Log("where : " + category);
 
-        var bro = Backend.GameData.Get( /*tableName*/"fruit", where, 100);
-        if (bro.IsSuccess())
-        {
-            // for (int i = 0; i<bro.GetReturnValuetoJSON()["rows"].Count; i++)
-            // {
-                JsonData jsonData = bro.GetReturnValuetoJSON()["rows"][0];
-                Debug.Log(jsonData.ToJson());
-                string id = jsonData["id"][0].ToString();
-                string cate = jsonData["category"][0].ToString();
-                string name = jsonData["name"][0].ToString();
-                string price = jsonData["price"][0].ToString();
+        // var bro = Backend.GameData.Get( /*tableName*/"fruit", where, 100);
+        // if (bro.IsSuccess())
+        // {
+        //     JsonData jsonData = bro.GetReturnValuetoJSON()["rows"];
+        //     // Debug.Log(jsonData.ToJson());
+        //     for (int i = 0; i<jsonData.Count; i++)
+        //     {
+        //         var id = jsonData[i]["id"][0];
+        //         string cate = jsonData[i]["category"][0].ToString();
+        //         string name = jsonData[i]["name"][0].ToString();
+        //         var price = jsonData[i]["price"][0];
 
-                Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price);
-                // Debug.Log(" category : " + cate + " name : " + name); 
-            // }
-        }
-        else Debug.LogError(bro.GetErrorCode() + " " + bro.GetMessage());
-/*
-        Backend.GameData.Get( tableName, where, 100, ( callback ) => 
+        //         Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price); 
+        //     }
+        // }
+        // else Debug.LogError(bro.GetErrorCode() + " " + bro.GetMessage());
+
+        Backend.GameData.Get( /*tableName*/"fruit", where, 100, ( callback ) => 
         {
             if (callback.IsSuccess())
             {
-                JsonData jsonData = callback.GetReturnValuetoJSON()["rows"][0];
-                int id = (int)jsonData["id"][0];
-                string category = jsonData["category"][0].ToString();
-                string name = jsonData["name"][0].ToString();
-                int price = (int)jsonData["price"][0];
+                JsonData jsonData = callback.GetReturnValuetoJSON()["rows"];
+                // Debug.Log(jsonData.ToJson());
+                for (int i = 0; i<jsonData.Count; i++)
+                {
+                    var id = jsonData[i]["id"][0];
+                    string cate = jsonData[i]["category"][0].ToString();
+                    string name = jsonData[i]["name"][0].ToString();
+                    var price = jsonData[i]["price"][0];
 
-                Debug.Log("id : " + id + " category : " + category + " name : " + name + " price : " + price);
+                    Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price); 
+                }
             }
-            else Debug.LogError(callback.GetErrorCode());
+            else Debug.LogError(callback.GetErrorCode() + " " + callback.GetMessage());
         });
-*/
+
     }
 }
