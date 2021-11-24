@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using BackEnd;
+using LitJson;
 
 public class UnitMaker : MonoBehaviour
 {
@@ -31,7 +32,12 @@ public class UnitMaker : MonoBehaviour
         Where where = new Where();
         where.Equal("category", category);
 
-        var BRO = Backend.GameData.Get(tableName, where, 20);   // 인스턴스 모음
-        
+        Backend.GameData.Get( tableName, where, 100, ( callback ) => 
+        {
+            if (callback.IsSuccess())
+            {
+                JsonData json = callback.GetReturnValuetoJSON()["rows"][0];
+            }
+        });
     }
 }
