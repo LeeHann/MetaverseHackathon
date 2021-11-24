@@ -54,11 +54,12 @@ public class UnitMaker : MonoBehaviour
         // }
         // else Debug.LogError(bro.GetErrorCode() + " " + bro.GetMessage());
 
-        Backend.GameData.Get( /*tableName*/"fruit", where, 100, ( callback ) => 
+        Backend.GameData.Get( /*tableName*/"fruit", where, 100, bro => 
         {
-            if (callback.IsSuccess())
+            Debug.Log("ASYNC");
+            if (bro.IsSuccess())
             {
-                JsonData jsonData = callback.GetReturnValuetoJSON()["rows"];
+                JsonData jsonData = bro.GetReturnValuetoJSON()["rows"];
                 // Debug.Log(jsonData.ToJson());
                 for (int i = 0; i<jsonData.Count; i++)
                 {
@@ -70,7 +71,7 @@ public class UnitMaker : MonoBehaviour
                     Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price); 
                 }
             }
-            else Debug.LogError(callback.GetErrorCode() + " " + callback.GetMessage());
+            else Debug.LogError(bro.GetErrorCode() + " " + bro.GetMessage());
         });
 
     }
