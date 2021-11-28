@@ -17,8 +17,10 @@ public partial class UIManager : MonoBehaviour
     public GameObject item;
     [HideInInspector] public ItemButton[] ItemObjects;
     static public string tableName;
-    public GameObject UIPanel;
-    public ProductViewSlide ProductView;
+    public GameObject UIPanel;                                      // category 버튼을 가지고 있는 베이스 UI
+    public ProductViewSlide ProductView;                            // 아이템 패널 좌르륵 나오는 스크롤 뷰
+    public GameObject ItemDetail;                                   // 아이템 패널 클릭 시 활성화되는 구매/장바구니 UI
+    public Text[] ItemDetailTexts;
 
     private void Update() 
     {
@@ -37,6 +39,8 @@ public partial class UIManager : MonoBehaviour
         if (instance == null)
             instance = this;
         ProductView.ViewClose();
+
+        ItemDetailTexts = ItemDetail.GetComponentsInChildren<Text>();
     }
 
     void Start()
@@ -102,6 +106,8 @@ public partial class UIManager : MonoBehaviour
                 childTexts[0].text = name;
                 childTexts[1].text = ChangeMoneyText(int.Parse(price.ToString())) + "원";
                 ItemObjects[jsonData.Count - 1 - i].gameObject.SetActive(true);
+                ItemObjects[jsonData.Count - 1 - i].Name = name;
+                ItemObjects[jsonData.Count - 1 - i].Price = ChangeMoneyText(int.Parse(price.ToString())) + "원";  
             }
             
             // 아이템 베이스 패널 오른쪽으로 이동

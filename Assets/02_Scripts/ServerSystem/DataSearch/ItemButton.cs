@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class ItemButton : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public string Name;
+    public string Price;
 
-    // Update is called once per frame
-    void Update()
+    public void OnClickItem()
     {
-        
+        UIManager.instance.ItemDetail.SetActive(true);
+        UIManager.instance.ItemDetailTexts[0].text = Name;
+        UIManager.instance.ItemDetailTexts[1].text = Price;
     }
 }
