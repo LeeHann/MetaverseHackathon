@@ -12,6 +12,7 @@ public class Sign : MonoBehaviour
     public InputField InputPW;
     public GameObject PanelWarning;
     public Text TextWarning;
+    Coroutine m_coroutine;
     
 
     public bool SceneMode;
@@ -78,16 +79,20 @@ public class Sign : MonoBehaviour
 
     void Error(string errorCode)
     {
+        if (m_coroutine != null)
+        {
+            StopCoroutine(m_coroutine); 
+        }
         switch (errorCode)
         {
             case "DuplicatedParameterException":
-                StartCoroutine(PrintWarning("중복된 사용자 아이디입니다."));
+                m_coroutine = StartCoroutine(PrintWarning("중복된 사용자 아이디입니다."));
                 break;
             case "BadUnauthorizedException" :
-                StartCoroutine(PrintWarning("잘못된 사용자 아이디 혹은 비밀번호입니다."));
+                m_coroutine = StartCoroutine(PrintWarning("잘못된 사용자 아이디 혹은 비밀번호입니다."));
                 break;
             default:
-                StartCoroutine(PrintWarning("로그인에 실패했습니다."));
+                m_coroutine = StartCoroutine(PrintWarning("로그인에 실패했습니다."));
                 break;
         }
     }
@@ -117,6 +122,9 @@ public class Sign : MonoBehaviour
         PanelWarning.SetActive(false);
         color.a = 1f;
         PanelWarning.GetComponent<Image>().color = color;
+        color2.a = 1f;
         TextWarning.color = color2;
+
+        m_coroutine = null;
     }
 }
