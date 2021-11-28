@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MilkProducts
+  - Fruits
+  - Meat
+  - Fish
+  - Rice
+  - Baby
+  - Clean
+  - Daily
+  - Vegetable
   layers:
   - Default
   - TransparentFX
@@ -11,8 +20,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Table
+  - Kiosk
   - 
   - 
   - 

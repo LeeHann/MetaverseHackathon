@@ -12,8 +12,9 @@ public class Player : MonoBehaviour
     bool cDown;
     bool isBed;
     bool isBad;
-    Vector3 moveVec;
+    Vector3 moveVec, upVec = new Vector3(0, 0.5f, 0);
 
+    
     Animator anim;
     // Start is called before the first frame update
     void Awake()
@@ -81,11 +82,61 @@ public class Player : MonoBehaviour
         }
         else if (isBad)
         {
-            hit = Physics.RaycastAll(transform.position, transform.forward);
+            hit = Physics.RaycastAll(transform.position + upVec, transform.forward, 3.0f);
 
-            Debug.DrawRay(transform.position, transform.forward * 10, Color.red);
-            for(int i=0;i<hit.Length;i++)
+            Debug.DrawRay(transform.position + upVec, transform.forward * 10, Color.red);
+            for (int i = 0; i < hit.Length; i++)
+            {
                 Debug.Log(hit[i].collider.name);
+                if (hit[i].collider.gameObject.layer == 6)
+                {
+                    switch (hit[i].collider.gameObject.tag)
+                    {
+                        case "MilkProducts":
+                            UIManager.tableName = "milkProduct";
+                            Loading.LoadSceneHandle("Section1");
+                            break;
+                        case "Fruits": 
+                            UIManager.tableName = "fruit";
+                            Loading.LoadSceneHandle("Section2");
+                            break;
+                        case "Meat":
+                            UIManager.tableName = "meat";
+                            Loading.LoadSceneHandle("Section3");
+                            break;
+                        case "Fish":
+                            UIManager.tableName = "seafood";
+                            Loading.LoadSceneHandle("Section4");
+                            break;
+                        case "Rice":
+                            UIManager.tableName = "rice";
+                            Loading.LoadSceneHandle("Section5");
+                            break;
+                        case "Baby":
+                            UIManager.tableName = "babyProduct";
+                            Loading.LoadSceneHandle("Section6");
+                            break;
+                        case "Clean":
+                            UIManager.tableName = "cleaningProduct";
+                            Loading.LoadSceneHandle("Section7");
+                            break;
+                        case "Daily":
+                            UIManager.tableName = "dailySupplies";
+                            Loading.LoadSceneHandle("Section8");
+                            break;
+                    }              
+                }
+                if (hit[i].collider.gameObject.layer == 7)
+                {
+                    if (hit[i].collider.gameObject.tag=="Fruits")
+                        UIManager.tableName = "fruit";
+                    if (hit[i].collider.gameObject.tag == "Vegetable")
+                        UIManager.tableName = "vegetable";
+                    UIManager.instance.UIPanel.SetActive(true);
+                    UIManager.instance.SelectSection();
+                }
+            }
+                
            
         }
     }
