@@ -10,7 +10,7 @@ public class ProductViewSlide : MonoBehaviour
 
     public void ViewOpen()
     {
-        Debug.Log("view open");
+        // Debug.Log("view open");
         // 활성화
         this.gameObject.SetActive(true);
         // 왼쪽에서 오른쪽으로 이동

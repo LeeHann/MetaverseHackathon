@@ -27,7 +27,7 @@ public partial class UIManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             // 테이블 중 하나 raycast 해서 오픈하기
-            Debug.Log("fruit table section Open");
+            // Debug.Log("fruit table section Open");
             UIPanel.SetActive(true);
             tableName = "fruit";    // tableName = gameObject.tag
             SelectSection();
@@ -73,7 +73,7 @@ public partial class UIManager : MonoBehaviour
 
     public void SetFunctionButton(int num, System.Action<string> callback, string category)
     {
-        Debug.Log("num : " + num);
+        // Debug.Log("num : " + num);
         UnitObjects[num].gameObject.SetActive(true);
         UnitObjects[num].GetComponent<UnitButton>().SetButton(callback, category);
     }
@@ -99,7 +99,7 @@ public partial class UIManager : MonoBehaviour
                 string name = jsonData[i]["name"][0].ToString();
                 var price = jsonData[i]["price"][0];
 
-                Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price); 
+                // Debug.Log("id : " + id + " category : " + cate + " name : " + name + " price : " + price); 
                 // 값 매치
                 // 카테고리에 따라 사진 매치
                 Text[] childTexts = ItemObjects[jsonData.Count - 1 - i].GetComponentsInChildren<Text>();
@@ -123,6 +123,6 @@ public partial class UIManager : MonoBehaviour
     //Text 변경 메서드
     static public string ChangeMoneyText(int money)
     {
-        return (string.Format("{0:#,###}", money));
+        return (string.Format("{0:#,##0}", money));
     }
 }
