@@ -22,17 +22,17 @@ public partial class UIManager : MonoBehaviour
     public GameObject ItemDetail;                                   // 아이템 패널 클릭 시 활성화되는 구매/장바구니 UI
     public Text[] ItemDetailTexts;
 
-    private void Update() 
-    {
-        if (Input.GetKeyDown(KeyCode.Alpha1))
-        {
-            // 테이블 중 하나 raycast 해서 오픈하기
-            // Debug.Log("fruit table section Open");
-            UIPanel.SetActive(true);
-            tableName = "fruit";    // tableName = gameObject.tag
-            SelectSection();
-        }
-    }
+    // private void Update() 
+    // {
+    //     if (Input.GetKeyDown(KeyCode.Alpha1))
+    //     {
+    //         // 테이블 중 하나 raycast 해서 오픈하기
+    //         // Debug.Log("fruit table section Open");
+    //         UIPanel.SetActive(true);
+    //         tableName = "fruit";    // tableName = gameObject.tag
+    //         SelectSection();
+    //     }
+    // }
 
     void Awake()
     {

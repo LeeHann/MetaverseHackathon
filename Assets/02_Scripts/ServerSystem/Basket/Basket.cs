@@ -59,9 +59,9 @@ public class Basket : MonoBehaviour
     public void OnClickBuy()
     {
         // 선택된 객체만 구매
-        foreach (var item in slots)
+        foreach (var item in UIManager.ItemsInBasket)
         {
-            if (item.GetComponent<BasketItem>().info.isCheck == true)
+            if (item.isCheck == true)
             {
                 // 구매하기
             }
@@ -74,21 +74,20 @@ public class Basket : MonoBehaviour
         int cnt = UIManager.ItemsInBasket.Count;
         int cntS = slots.Count;
         for (int i=cnt-1; i>=0; i--)
-        {   if (UIManager.ItemsInBasket.Count < i + 1) continue;
+        {   if (UIManager.ItemsInBasket.Count < i + 1) break;
             if (UIManager.ItemsInBasket[i].isCheck == true)
             {
                 // slot과 ItemsInBasket의 atomicity
                 for (int j=cntS-1; j>=0; j--)
-                {   if (slots.Count < j + 1) continue;
+                {   if (slots.Count < j + 1) break;
                     if (UIManager.ItemsInBasket[i].Name == slots[j].GetComponentInChildren<BasketItem>().info.Name)
                     {
                         var tmp = slots[j].gameObject;
                         PopSlot(slots[j].gameObject);
                         Destroy(tmp);
-                        UIManager.instance.RemoveItem(UIManager.ItemsInBasket[i]);
+                        UIManager.ItemsInBasket.Remove(UIManager.ItemsInBasket[i]);
                     }
                 }
-                
             }
         }
         CalculateTotalPrice();
