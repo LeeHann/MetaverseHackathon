@@ -13,7 +13,7 @@ public class BasketItem : MonoBehaviour
     public void OnToggleCheck()
     {
         info.isCheck = this.GetComponentInChildren<Toggle>().isOn;
-        Debug.Log("isCheck " + info.isCheck);
+        // Debug.Log("isCheck " + info.isCheck);
         // UIManager.ItemsInBasket
     }
 }

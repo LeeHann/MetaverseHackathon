@@ -71,26 +71,52 @@ public class Basket : MonoBehaviour
     public void OnClickTrash()
     {
         // 선택된 객체만 버리기
-        foreach (var item in slots)
-        {
-            if (item.GetComponent<BasketItem>().info.isCheck == true)
+        int cnt = UIManager.ItemsInBasket.Count;
+        int cntS = slots.Count;
+        for (int i=cnt-1; i>=0; i--)
+        {   if (UIManager.ItemsInBasket.Count < i + 1) continue;
+            if (UIManager.ItemsInBasket[i].isCheck == true)
             {
-                UIManager.instance.RemoveItem(item.GetComponent<BasketItem>().info);
-                PopSlot(item.gameObject);
-                Destroy(item.gameObject);
+                // slot과 ItemsInBasket의 atomicity
+                for (int j=cntS-1; j>=0; j--)
+                {   if (slots.Count < j + 1) continue;
+                    if (UIManager.ItemsInBasket[i].Name == slots[j].GetComponentInChildren<BasketItem>().info.Name)
+                    {
+                        var tmp = slots[j].gameObject;
+                        PopSlot(slots[j].gameObject);
+                        Destroy(tmp);
+                        UIManager.instance.RemoveItem(UIManager.ItemsInBasket[i]);
+                    }
+                }
+                
             }
         }
+        CalculateTotalPrice();
+    }
+
+    public void OnClickClear()
+    {
+        int cnt = UIManager.ItemsInBasket.Count;
+        for (int i=cnt-1; i>=0; i--)
+        // foreach (var i in UIManager.ItemsInBasket)
+        {
+            var tmp = slots[i].gameObject;
+            PopSlot(slots[i].gameObject);
+            Destroy(tmp);
+            UIManager.ItemsInBasket.Remove(UIManager.ItemsInBasket[i]);
+        }
+        CalculateTotalPrice();
     }
 
     public void CalculateTotalPrice()
     {
-        Debug.Log("Calculate");
+        // Debug.Log("Calculate");
         int totalPrice = 0;
         foreach (var num in UIManager.ItemsInBasket)
         {   
             if (num.isCheck == true)
                 totalPrice += int.Parse((num.Price.Replace("원", "")).Replace(",", ""));
-            Debug.Log("num.isCheck : " + num.isCheck);
+            // Debug.Log("num.isCheck : " + num.isCheck);
         }
         TotalPrice.text = UIManager.ChangeMoneyText(totalPrice) + "원";
     }
