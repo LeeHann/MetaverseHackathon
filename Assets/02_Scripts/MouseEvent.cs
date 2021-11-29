@@ -35,7 +35,7 @@ public class MouseEvent : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.I))
         {
-            guideOpen = !guideOpen;
+            guideOpen = !Guide.activeSelf;
             Guide.SetActive(guideOpen);
         }
     }
