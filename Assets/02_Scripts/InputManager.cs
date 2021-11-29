@@ -16,6 +16,8 @@ public class InputManager : MonoBehaviour
     public Button ButtonCheck;
     public string nm;
 
+    Button ButtonPay;
+
     public class Header
     {
         public string ApiNm = "InquireDepositorAccountNumber";
@@ -37,7 +39,8 @@ public class InputManager : MonoBehaviour
 
     void Start()
     {
-
+        ButtonPay = GetComponentInChildren<Button>();
+        ButtonPay.onClick.AddListener(() => gameObject.SetActive(false));
         ButtonCheck.onClick.AddListener(CheckName);
 
     }
@@ -59,7 +62,7 @@ public class InputManager : MonoBehaviour
 
     void CheckName()
     {
-        Debug.Log("¹öÆ° ´­·¯Áü!");
+        Debug.Log("ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!");
 
         Jsoner js = new Jsoner();
         Header hd = new Header();
